@@ -1,0 +1,46 @@
+{
+ "caption": "Before you pay any fee, find out whether your profile is actually ready.\n\nThat is what the free consultation is for. We look at your residence status, employment, travel history, funds and destination — then tell you plainly whether to apply now or fix something first.\n\nSometimes the honest answer is wait. Sometimes it is that a different consulate suits you better. Either way you will know before you spend a non-refundable fee.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#FreeConsultation #VisaDoctorUAE #VisaConsultantDubai #DubaiExpats #UAEResidents #VisaHelp",
+ "alt": "Free visa consultation for UAE residents before paying any fee",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20consultation%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "cover",
+   "tone": "alert",
+   "tag": "FREE CONSULTATION",
+   "headline": "FIND OUT BEFORE YOU PAY.",
+   "sub": "The diagnosis costs nothing.",
+   "note": "We look at your residence status, employment, travel history, funds and destination — then tell you plainly."
+  },
+  {
+   "type": "numbered",
+   "tone": "light",
+   "kicker": "What",
+   "headline": "WE REVIEW WITH YOU",
+   "items": [
+    "Your residence status and its validity",
+    "Employment and income evidence",
+    "Travel history and any previous refusals",
+    "The destination and the right consulate for it"
+   ]
+  },
+  {
+   "type": "statement",
+   "tone": "dark",
+   "headline": "SOMETIMES THE HONEST ANSWER IS WAIT.",
+   "sub": "We will say so.",
+   "body": "We would rather lose a fee than take money for an application that was not ready. That is the whole basis of the consultation."
+  },
+  {
+   "type": "cta",
+   "tone": "light",
+   "tag": "FREE CONSULTATION",
+   "headline": "MESSAGE US. THE DIAGNOSIS IS FREE.",
+   "sub": "Your visa. Our paperwork.",
+   "checks": [
+    "Free profile review",
+    "Honest recommendation",
+    "No obligation to proceed"
+   ]
+  }
+ ]
+}

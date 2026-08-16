@@ -1,0 +1,57 @@
+{
+ "caption": "Nine documents. One inconsistency. That is all it takes.\n\nOfficers are not reading each document in isolation. They are checking whether the set agrees with itself.\n\nYour bank statement should support your itinerary. Your itinerary should match your reservations. Your cover letter should explain both. One date that drifts, and the whole file starts being read differently.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#VisaTips #SchengenVisa #VisaDoctorUAE #DubaiExpats #UAEResidents #VisaHelp",
+ "alt": "Why visa documents must be consistent with each other for approval",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20documents%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "cover",
+   "tone": "light",
+   "tag": "THE REAL TEST",
+   "headline": "NINE DOCUMENTS. ONE INCONSISTENCY.",
+   "sub": "That is all it takes.",
+   "note": "Officers are not reading documents in isolation. They are checking whether the set agrees with itself."
+  },
+  {
+   "type": "split",
+   "tone": "light",
+   "headline": "WHAT GETS CROSS-CHECKED",
+   "left": {
+    "title": "Against each other",
+    "items": [
+     "Bank statement vs itinerary",
+     "Itinerary vs reservations",
+     "Reservations vs application dates",
+     "Cover letter vs everything"
+    ]
+   },
+   "right": {
+    "title": "What breaks it",
+    "items": [
+     "A date that drifts by two days",
+     "Funds that do not cover the plan",
+     "Accommodation with a gap",
+     "A purpose that shifts between documents"
+    ]
+   }
+  },
+  {
+   "type": "statement",
+   "tone": "dark",
+   "headline": "ONE DRIFTING DATE CHANGES HOW THE WHOLE FILE READS.",
+   "sub": "Consistency is the product.",
+   "body": "This is the least glamorous part of the work and the part that decides the most outcomes."
+  },
+  {
+   "type": "cta",
+   "tone": "light",
+   "tag": "FREE CONSULTATION",
+   "headline": "WE CROSS-CHECK EVERY DOCUMENT.",
+   "sub": "Before anyone else does.",
+   "checks": [
+    "Full consistency audit",
+    "Every date verified",
+    "Contradictions fixed before submission"
+   ]
+  }
+ ]
+}

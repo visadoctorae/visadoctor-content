@@ -1,0 +1,46 @@
+{
+ "caption": "ETIAS is not live yet. Anyone charging you for it today is running a scam.\n\nWe see this weekly. A convincing website, an official-looking logo, a payment form, and a fee for something that does not exist yet.\n\nBefore you pay anything for a visa or travel authorisation, check the official source. If a site cannot be traced to a government or an official partner, walk away.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#ScamAlert #ETIAS #VisaDoctorUAE #DubaiExpats #UAEResidents #EuropeTravel #VisaScam",
+ "alt": "ETIAS scam warning for UAE residents, ETIAS is not live yet and nobody can charge for it",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20ETIAS%20scam%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "cover",
+   "tone": "alert",
+   "tag": "SCAM WATCH",
+   "headline": "ETIAS IS NOT LIVE YET.",
+   "sub": "Anyone charging you for it is taking your money.",
+   "note": "Convincing website. Official-looking logo. Payment form. A fee for something that does not exist yet."
+  },
+  {
+   "type": "numbered",
+   "tone": "light",
+   "kicker": "How",
+   "headline": "TO SPOT THE FAKE",
+   "items": [
+    "It asks for payment for something not yet in force",
+    "The domain is not a government or official partner site",
+    "It promises instant approval or guaranteed entry",
+    "It pressures you to pay today"
+   ]
+  },
+  {
+   "type": "statement",
+   "tone": "dark",
+   "headline": "CHECK THE SOURCE BEFORE YOU CHECK OUT.",
+   "sub": "One minute of scepticism saves a great deal.",
+   "body": "Official information comes from official channels. If you cannot trace a site back to one, it does not deserve your card details."
+  },
+  {
+   "type": "cta",
+   "tone": "light",
+   "tag": "FREE CONSULTATION",
+   "headline": "NOT SURE IF IT'S REAL? ASK US FIRST.",
+   "sub": "We will tell you straight.",
+   "checks": [
+    "We check the source with you",
+    "No charge for the question",
+    "Licensed Dubai agency"
+   ]
+  }
+ ]
+}

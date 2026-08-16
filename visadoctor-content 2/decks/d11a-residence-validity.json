@@ -1,0 +1,46 @@
+{
+ "caption": "Check your UAE residence visa expiry before you check anything else.\n\nThere is a refusal reason that has nothing to do with your money, your job or your itinerary: your residence visa expires too soon after your trip.\n\nConsulates want to see that your right to live here extends well past your return date. If it does not, the whole return-to-UAE logic collapses. Renew first, apply second.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#ResidenceVisa #SchengenVisa #VisaDoctorUAE #DubaiExpats #UAEResidents #VisaTips",
+ "alt": "UAE residence visa validity requirement before applying for Schengen",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20residence%20visa%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "cover",
+   "tone": "alert",
+   "tag": "CHECK FIRST",
+   "headline": "CHECK THIS BEFORE YOU APPLY.",
+   "sub": "It has nothing to do with your money.",
+   "note": "Your UAE residence visa expiring too soon after your trip is a refusal reason almost nobody warns you about."
+  },
+  {
+   "type": "numbered",
+   "tone": "light",
+   "kicker": "Why",
+   "headline": "IT MATTERS SO MUCH",
+   "items": [
+    "Your return-to-UAE case rests on your right to be here",
+    "If that right is expiring, the case weakens",
+    "Officers check the expiry date directly",
+    "Renewing first is almost always the right order"
+   ]
+  },
+  {
+   "type": "statement",
+   "tone": "dark",
+   "headline": "RENEW FIRST. APPLY SECOND.",
+   "sub": "Order of operations matters.",
+   "body": "Applying in the wrong sequence is a refusal you can avoid entirely — at no cost beyond a little patience."
+  },
+  {
+   "type": "cta",
+   "tone": "light",
+   "tag": "FREE CONSULTATION",
+   "headline": "WE CHECK THE SEQUENCE WITH YOU.",
+   "sub": "Before anything gets submitted.",
+   "checks": [
+    "Residence validity reviewed",
+    "Timing planned properly",
+    "File built once, correctly"
+   ]
+  }
+ ]
+}
