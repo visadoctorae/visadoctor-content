@@ -1,0 +1,44 @@
+{
+ "caption": "US visa appointment from Dubai: the official wait is 11.5 months. Appointments in Dubai and Abu Dhabi are open right now.\n\nMost people never check. They hear \"impossible\" and give up, or they book a slot a year out and hope nothing changes.\n\nAs of today the US State Department lists the next available B1/B2 interview at 11.5 months in Dubai and 6 months in Abu Dhabi. Both posts are open and taking applications.\n\nWe file for an expedited appointment — and we handle everything the process needs: DS-160 completed, visa fee paid, online account registered, and the expedited request submitted properly.\n\nNo hidden fees. One price, agreed in writing.\n\n💬 Message us — link in bio. The first consultation is free.\n📍 Dubai · Licensed documentation agency · Refundable appointment guarantee\n❓ Travelling to the US this year? Tell us when in the comments.\n\n#USVisaDubai #USVisa #UAEResidents #DubaiExpats #VisaDoctorUAE",
+ "alt": "US visa appointment wait times in Dubai and Abu Dhabi compared with an expedited appointment",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20US%20visa%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {"type":"photocover","photo":"x","scrim":"strong",
+   "pills":[{"t":"APPOINTMENTS OPEN","style":"out"},{"t":"USA","style":"fill"}],
+   "headline":"THE US VISA WAIT IN DUBAI IS 11.5 MONTHS.",
+   "sub":"You do not have to wait it out.",
+   "note":"Dubai and Abu Dhabi are both open and taking applications right now. Most people never check."},
+
+  {"type":"barcompare","tone":"light","kicker":"The difference",
+   "headline":"WAITING VERSUS FILING PROPERLY",
+   "rows":[
+     {"label":"Booking the next open slot yourself","days":350,"value":"11.5 months"},
+     {"label":"With Visa Doctor — expedited request","days":7,"value":"7 days","accent":true}],
+   "footnote":"Bar lengths are drawn strictly to scale. Wait figure: US Department of State, next available B1/B2 interview in Dubai, checked 22 August 2026. Abu Dhabi is currently 6 months."},
+
+  {"type":"reveal","tone":"light",
+   "answer":"AN EXPEDITED APPOINTMENT IS A REAL PROCESS.",
+   "body":"It is not a shortcut, a contact or a paid queue. It is a formal request you submit once your case is properly prepared — and most people never file one because they do not know it exists.",
+   "note":"The consulate decides. What we control is that the request is complete, correct and submitted the moment it can be."},
+
+  {"type":"photoband","photo":"x","scrim":"soft",
+   "pills":[{"t":"BOTH POSTS OPEN","style":"out"}],
+   "headline":"DUBAI AND ABU DHABI ARE BOTH TAKING APPLICATIONS.",
+   "sub":"Abu Dhabi is currently the shorter queue."},
+
+  {"type":"checklist","tone":"light",
+   "headline":"WHAT WE DO FOR YOU",
+   "items":[
+     "DS-160 completed and reviewed line by line",
+     "Visa fee paid on your behalf",
+     "Online account registered and managed",
+     "Expedited appointment request filed properly",
+     "Interview preparation before you go"],
+   "footnote":"One agreed price. No hidden fees, no add-ons at the end."},
+
+  {"type":"photocta","photo":"x","tag":"FREE CONSULTATION",
+   "headline":"TELL US YOUR TRAVEL DATE. WE'LL TELL YOU WHAT'S POSSIBLE.",
+   "sub":"No hidden fees.",
+   "checks":["DS-160 prepared and filed","Visa fee paid for you","Account registration handled","Expedited request submitted"]}
+ ]
+}
