@@ -56,6 +56,11 @@ const PHOTOS = {
   planeWindow: PX(3374249), calendar: PX(10620369),
 };
 
+// ---- PER-DECK PHOTO ASSIGNMENT ----
+// One unique photograph per slot across the whole library. No image appears twice.
+// [coverPhotoId, chapterPhotoId, closingPhotoId]
+const ASSIGN = {"d01a-ties-to-dubai": ["31084537","29731407","30851143"],"d01b-etias-scam": ["6632852","19752123","32176062"],"d02a-bank-balance": ["8369211","17501702","3927131"],"d02b-why-pay-agent": ["7658310","30379456","29402988"],"d03a-nanny": ["7794043","32537122","7108126"],"d03b-appointments": ["5398879","14936005","28555348"],"d04a-uk-evisa": ["36405729","19855229","16188094"],"d04b-90180": ["5648030","27541217","22863008"],"d05a-cover-letter": ["36674333","7229228","5242822"],"d05b-us-interview": ["12383955","33595404","27945494"],"d06a-flight-booking": ["7841818","20068237","36933446"],"d06b-insurance": ["16282306","36732237","6726195"],"d07a-three-mistakes": ["7680748","37034503","36931056"],"d07b-reapply": ["7654131","20422720","6649418"],"d08a-checklist": ["3747070","36194906","4004224"],"d08b-itinerary": ["6862457","5538430","4247732"],"d09a-japan": ["36021672","19976960","37580640"],"d09b-morocco": ["17649841","15111268","9664937"],"d10a-business-visa": ["8112186","37536322","18695674"],"d10b-consulate": ["4968388","15939547","3892808"],"d11a-residence-validity": ["36260020","34666834","30948318"],"d11b-guarantee": ["6893890","15592107","31071253"],"d12a-scam-appointment": ["9300770","29343111","36681355"],"d12b-destinations": ["188916","31173365","9129698"],"d13a-early-filing": ["771317","38254359","20273267"],"d13b-what-we-do": ["29509515","29168882","5371683"],"d14a-first-timer": ["16472571","16309117","19854581"],"d14b-documents-agree": ["7059603","16922421","3374249"],"d15a-uae-advantage": ["8569166","10180370","3254753"],"d15b-free-consult": ["7657406","32275767","37644602"],"m01-flights": ["3140204","16908385","29974072"],"m02-embassy-choice": ["22431331","37565753","12217338"],"m03-reapply": ["7657381","16259215","5891773"],"m04-appointment-scam": ["34835173","27721888","38531395"],"m05-insurance": ["8837510","31067775","29654961"],"m06-purpose": ["7734571","37944880","33968153"],"n01-ees-panic": ["12903168","19474742","9541811"],"n02-uk-evisa": ["9825919","38930838","29731398"],"n03-schengen-europe": ["14705341","18535771","3668481"],"n04-residence-validity": ["27206533","34673901","9287993"],"n05-business-visa": ["33175650","9152409","14841129"],"n06-etias": ["8117476","23339545","28102352"],"p01-complete-file": ["7653461","11030393","35188667"],"p02-uk-student": ["31390421","27397529","34496715"],"p03-embassies-check": ["261621","8910328","279805"],"p04-family-nanny": ["7964513","33715569","34496701"],"q01-refusals-rising": ["8761555","16428930","6903157"],"q02-one-refusal": ["6549588","14925042","14433234"],"q03-appointments": ["5940844","23383930","31703078"],"q04-passport-change": ["7972324","14897462","26244207"],"t01-90180-calculator": ["10620369","18986795","28377781"],"t02-refusal-decoder": ["5387261","5191379","8193761"],"t03-bank-balance": ["5921494","38910089","29916761"],"t04-cover-letter": ["6538440","28174485","19769269"],"t05-passport-validity": ["37811257","32783753","26288920"],"t06-checklist-generator": ["9829305","9138116","2290554"],"t07-approval-estimator": ["8106623","35496787","26984758"],"t08-which-visa": ["7634433","17034833","7446975"],"x01-what-947-means": ["33639865","28000940","27254929"],"x02-what-we-promise": ["5833238","15986461","6975192"]};
+
 const _pcache = new Map();
 async function loadPhoto(ref) {
   const url = PHOTOS[ref] || ref;
@@ -397,7 +402,18 @@ const deck = JSON.parse(fs.readFileSync(deckPath, 'utf8'));
 const out = outDir || path.join('out', path.basename(deckPath, '.json'));
 fs.mkdirSync(out, { recursive: true });
 
-// Resolve every photo reference to an inline data URI before layout.
+// Apply the per-deck unique photo assignment, then resolve to inline data URIs.
+const _slug = path.basename(deckPath, '.json');
+const _a = ASSIGN[_slug];
+if (_a) {
+  const last = deck.slides.length - 1;
+  deck.slides.forEach((s, i) => {
+    if (!s.photo) return;
+    s.photo = PX(i === 0 ? _a[0] : i === last ? _a[2] : _a[1]);
+  });
+} else {
+  console.warn(`No photo assignment for "${_slug}" — falling back to deck values.`);
+}
 for (const s of deck.slides) if (s.photo) s._img = await loadPhoto(s.photo);
 
 for (let i = 0; i < deck.slides.length; i++) {
