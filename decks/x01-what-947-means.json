@@ -1,0 +1,71 @@
+{
+ "caption": "Our approval rate is 94.7%. Here is the honest explanation of what that number is.\n\nIt is the rate across applications we prepare and submit. It is high partly because we audit files before submission and decline to submit ones that are not ready.\n\nIt is not a prediction about your case. The consulate decides that, and no agency can change it.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#VisaDoctorUAE #VisaConsultantDubai #DubaiExpats #UAEResidents #HonestAdvice #VisaHelp",
+ "alt": "What a 94.7 percent visa approval rate actually means Visa Doctor",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20approval%20rate%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "istanbul",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "STRAIGHT TALK",
+     "style": "out"
+    }
+   ],
+   "headline": "OUR APPROVAL RATE IS 94.7%.",
+   "sub": "Here is what that number actually is.",
+   "note": "Every agency quotes a figure. Very few explain how it is produced. Ours is worth explaining."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "IT IS NOT A PREDICTION ABOUT YOU.",
+   "body": "It is the rate across applications we prepare and submit. Your case is decided by the consulate, on its own merits.",
+   "note": "Anyone presenting a success rate as a personal guarantee is misleading you."
+  },
+  {
+   "type": "numbered",
+   "tone": "light",
+   "kicker": "Why",
+   "headline": "THE NUMBER IS HIGH",
+   "items": [
+    "We audit every file before submission",
+    "We fix the weaknesses we find rather than submitting around them",
+    "We decline to submit files that are not ready",
+    "We match applications to the right consulate"
+   ]
+  },
+  {
+   "type": "mythreality",
+   "tone": "light",
+   "headline": "HOW SUCCESS RATES GET MISUSED",
+   "never": "Treat a published rate as a promise about your own application. A rate describes a population, not a person, and no agency controls a consulate's decision.",
+   "instead": "Ask what the agency actually controls — file quality, consulate selection, document consistency — and judge them on that. That is the honest measure.",
+   "neverLabel": "How it is usually sold",
+   "insteadLabel": "How to read it"
+  },
+  {
+   "type": "sourcecard",
+   "tone": "dark",
+   "tag": "FOR THE RECORD",
+   "headline": "5K+ VISAS ISSUED · 25K+ CONSULTATIONS",
+   "body": "A licensed Dubai documentation agency. We are not an embassy, a consulate, VFS or BLS. Approval, processing time, entries and validity are decided solely by the relevant consulate.",
+   "source": "visadoctor.ae",
+   "takeaway": "You can also apply directly, without paid assistance."
+  },
+  {
+   "type": "photocta",
+   "photo": "tarmac",
+   "tag": "FREE CONSULTATION",
+   "headline": "SEND ONE MESSAGE. WE DO THE REST.",
+   "sub": "Your visa. Our paperwork.",
+   "checks": [
+    "Application form and cover letter",
+    "Health insurance",
+    "Flight and hotel reservations",
+    "Day-by-day itinerary"
+   ]
+  }
+ ]
+}

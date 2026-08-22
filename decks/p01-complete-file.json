@@ -1,0 +1,77 @@
+{
+ "caption": "This is what a complete file actually looks like. Most applications from the UAE are missing three of these.\n\nApplication form. Health insurance. Flight reservations. Hotel reservations. Cover letter. Day-by-day itinerary. And the right consulate for your profile.\n\nThat gap between three and seven is the whole difference between hoping and knowing.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#VisaChecklist #SchengenVisa #VisaDoctorUAE #DubaiExpats #UAEResidents #TravelPrep",
+ "alt": "What a complete tourist visa file contains for UAE residents",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20checklist%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "passportDesk",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "SAVE THIS",
+     "style": "out"
+    }
+   ],
+   "headline": "THIS IS WHAT A COMPLETE FILE LOOKS LIKE.",
+   "sub": "Most are missing three of them.",
+   "note": "The gap between an almost-complete file and a complete one is where refusals live."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "headline": "WHAT BELONGS IN IT",
+   "items": [
+    "Application form, correctly completed",
+    "Compliant travel medical insurance",
+    "Flight reservations matching your dates",
+    "Hotel reservations covering every night",
+    "A cover letter written around your case",
+    "A day-by-day itinerary that matches everything else",
+    "Financial evidence with visible history"
+   ]
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "AND THE RIGHT CONSULATE.",
+   "body": "A complete file submitted to the wrong post is still the wrong application.",
+   "note": "Everything else is downstream of that one decision."
+  },
+  {
+   "type": "mythreality",
+   "tone": "light",
+   "headline": "WHERE COMPLETE FILES STILL FAIL",
+   "never": "Assemble every document correctly but never cross-check them against each other. Seven correct documents that disagree on dates read worse than five that agree.",
+   "instead": "Audit the set as a whole — dates, amounts, addresses, purpose — so the file tells one story from first page to last.",
+   "neverLabel": "The final mistake",
+   "insteadLabel": "What we do"
+  },
+  {
+   "type": "photoband",
+   "photo": "writing",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "WE BUILD ALL OF IT.",
+   "sub": "Your visa. Our paperwork."
+  },
+  {
+   "type": "photocta",
+   "photo": "tarmac",
+   "tag": "FREE CONSULTATION",
+   "headline": "SEND ONE MESSAGE. WE DO THE REST.",
+   "sub": "Your visa. Our paperwork.",
+   "checks": [
+    "Application form and cover letter",
+    "Health insurance",
+    "Flight and hotel reservations",
+    "Day-by-day itinerary"
+   ]
+  }
+ ]
+}

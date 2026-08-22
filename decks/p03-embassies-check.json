@@ -1,0 +1,74 @@
+{
+ "caption": "Before an officer reads your cover letter, three checks happen fast.\n\nDoes the financial story add up. Are there real ties to the UAE. Does the itinerary's logic match the documents.\n\nOur pre-submission audit runs the same three checks, finds the gaps and closes them before the consulate ever sees the file.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#VisaTips #SchengenVisa #VisaDoctorUAE #DubaiExpats #UAEResidents #VisaHelp",
+ "alt": "What embassies check first in a visa application from the UAE",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20documents%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "writing",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "THE REAL TEST",
+     "style": "out"
+    }
+   ],
+   "headline": "THREE CHECKS HAPPEN BEFORE ANYONE READS YOUR LETTER.",
+   "sub": "They take seconds.",
+   "note": "Officers are not reading documents in isolation. They are checking whether the set agrees with itself."
+  },
+  {
+   "type": "numbered",
+   "tone": "light",
+   "kicker": "Which",
+   "headline": "THREE, IN ORDER",
+   "items": [
+    "Does the financial story add up — salary, spending, savings, consistency",
+    "Are there real ties to the UAE — employment, residence, family, obligations",
+    "Does the itinerary's logic match the documents — dates, cities, bookings"
+   ]
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "ONE DRIFTING DATE CHANGES EVERYTHING.",
+   "body": "Your statement should support your itinerary. Your itinerary should match your reservations. Your letter should explain both.",
+   "note": "Consistency is unglamorous, and it decides more outcomes than anything else."
+  },
+  {
+   "type": "mythreality",
+   "tone": "light",
+   "headline": "WHAT APPLICANTS FOCUS ON INSTEAD",
+   "never": "Spend all the effort on the balance in the account and none on whether the documents agree. A strong balance inside a contradictory file still reads as a risk.",
+   "instead": "Run the same three checks the officer will run, before submission, and fix whatever fails them.",
+   "neverLabel": "Misplaced effort",
+   "insteadLabel": "What we do"
+  },
+  {
+   "type": "photoband",
+   "photo": "terminal",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "WE AUDIT BEFORE THEY DO.",
+   "sub": "Better we find it than they do."
+  },
+  {
+   "type": "photocta",
+   "photo": "terminal",
+   "tag": "FREE CONSULTATION",
+   "headline": "SEND ONE MESSAGE. WE DO THE REST.",
+   "sub": "Your visa. Our paperwork.",
+   "checks": [
+    "Application form and cover letter",
+    "Health insurance",
+    "Flight and hotel reservations",
+    "Day-by-day itinerary"
+   ]
+  }
+ ]
+}

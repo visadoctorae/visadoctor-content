@@ -1,0 +1,74 @@
+{
+ "caption": "The cover letter is not on any checklist. That is exactly why it works.\n\nMost applications arrive as a pile of documents with nothing connecting them. The cover letter is where you answer what the form cannot: who you are, why this trip, why these dates, who is paying, and what you are returning to in the UAE.\n\nIt turns paper into a case.\n\nWe built a free generator that structures one around your profile.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#CoverLetter #SchengenVisa #VisaDoctorUAE #DubaiExpats #UAEResidents #FreeTool",
+ "alt": "Free visa cover letter generator for UAE residents",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20cover%20letter%20generator%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "writing",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "FREE TOOL",
+     "style": "out"
+    }
+   ],
+   "headline": "THE DOCUMENT NOBODY TELLS YOU TO WRITE.",
+   "sub": "It is not on the checklist. That is the point.",
+   "note": "Without it, the officer receives documents with no story. With it, they receive a case."
+  },
+  {
+   "type": "reveal",
+   "tone": "dark",
+   "answer": "THE FORM STATES FACTS. THE LETTER EXPLAINS THEM.",
+   "body": "Purpose, funding, and return — argued clearly, on one page, matched line for line to the documents enclosed.",
+   "note": "One page. Disproportionate effect on how the rest of the file reads."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "headline": "WHAT A GOOD LETTER ANSWERS",
+   "items": [
+    "Who you are and what you do in the UAE",
+    "Why this trip, and why these specific dates",
+    "Who is funding it, and where the proof sits",
+    "What you are returning to here",
+    "Anything unusual in your file, explained before it is questioned"
+   ]
+  },
+  {
+   "type": "mythreality",
+   "tone": "light",
+   "headline": "WHY MOST LETTERS FAIL",
+   "never": "Download a template, change the name and the country, submit it. Consulates read hundreds of the same template every week. They can tell, and a generic letter adds nothing to your file.",
+   "instead": "Write it around your actual profile, your actual trip, and your actual documents — so every claim in it points at evidence you have enclosed.",
+   "neverLabel": "The template trap",
+   "insteadLabel": "What we do"
+  },
+  {
+   "type": "photoband",
+   "photo": "prague",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "START WITH OUR FREE GENERATOR.",
+   "sub": "Or let us write it properly."
+  },
+  {
+   "type": "photocta",
+   "photo": "tarmac",
+   "tag": "FREE TOOL",
+   "headline": "USE IT FREE ON VISADOCTOR.AE",
+   "sub": "No signup. No charge.",
+   "checks": [
+    "Built for UAE residents",
+    "Free to use, always",
+    "Or message us and we'll run it with you"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "caption": "The cheapest refusal to avoid: your passport was never eligible in the first place.\n\nValidity rules differ by destination. Some require months of remaining validity beyond your return date. Some require the passport to have been issued within a set period. Some require blank pages.\n\nNone of that is checked at booking. It is checked at submission — and at the gate.\n\nOur free checker confirms it in seconds.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#PassportValidity #VisaTips #VisaDoctorUAE #DubaiExpats #UAEResidents #FreeTool #TravelPrep",
+ "alt": "Free passport validity checker for UAE residents before visa application",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20passport%20validity%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "passportDesk",
+   "scrim": "alert",
+   "pills": [
+    {
+     "t": "CHECK FIRST",
+     "style": "out"
+    }
+   ],
+   "headline": "THE CHEAPEST REFUSAL TO AVOID.",
+   "sub": "And nobody checks it at booking.",
+   "note": "Passport validity rules differ by destination — remaining months, issue date, blank pages. All checked at submission, not at purchase."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "IT IS A TECHNICAL REJECTION.",
+   "body": "Your file is never assessed on merit. It fails before anyone reads your cover letter.",
+   "note": "Which makes it the most avoidable outcome in the whole process."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "style": "cross",
+   "headline": "WHAT GETS CHECKED",
+   "items": [
+    "Remaining validity beyond your intended departure",
+    "How recently the passport was issued",
+    "Blank pages available for the visa and stamps",
+    "Damage, or an unreadable data page",
+    "Name matching every other document exactly"
+   ]
+  },
+  {
+   "type": "photoband",
+   "photo": "tarmac",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "CHECK THE PASSPORT BEFORE YOU CHECK ANYTHING ELSE.",
+   "sub": "Then renew, then apply."
+  },
+  {
+   "type": "numbered",
+   "tone": "light",
+   "kicker": "Also",
+   "headline": "CHECK YOUR UAE RESIDENCE VISA",
+   "items": [
+    "Consulates want your right to live here extending well past your return",
+    "If it expires soon after the trip, the return case weakens",
+    "Renew first, apply second — almost always the right order"
+   ]
+  },
+  {
+   "type": "photocta",
+   "photo": "tarmac",
+   "tag": "FREE TOOL",
+   "headline": "USE IT FREE ON VISADOCTOR.AE",
+   "sub": "No signup. No charge.",
+   "checks": [
+    "Built for UAE residents",
+    "Free to use, always",
+    "Or message us and we'll run it with you"
+   ]
+  }
+ ]
+}

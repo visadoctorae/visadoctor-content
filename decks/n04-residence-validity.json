@@ -1,0 +1,78 @@
+{
+ "caption": "There is a refusal reason that has nothing to do with your money, your job or your itinerary.\n\nYour UAE residence visa expires too soon after your trip.\n\nConsulates want to see that your right to live here extends comfortably past your return date. If it does not, the entire return-to-UAE argument collapses. Renew first, apply second.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#ResidenceVisa #SchengenVisa #VisaDoctorUAE #DubaiExpats #UAEResidents #VisaTips",
+ "alt": "UAE residence visa validity requirement before applying for Schengen",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20residence%20visa%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "dubai",
+   "scrim": "alert",
+   "pills": [
+    {
+     "t": "CHECK FIRST",
+     "style": "out"
+    }
+   ],
+   "headline": "CHECK THIS BEFORE YOU CHECK YOUR BANK BALANCE.",
+   "sub": "It has nothing to do with money.",
+   "note": "Your UAE residence visa expiring soon after your trip is a refusal reason almost nobody warns you about."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "YOUR RETURN CASE RESTS ON IT.",
+   "body": "The officer is asking whether you will go back to the UAE. If your right to be here is expiring, that answer weakens considerably.",
+   "note": "They check the expiry date directly. It is not something that gets overlooked."
+  },
+  {
+   "type": "numbered",
+   "tone": "light",
+   "kicker": "Why",
+   "headline": "THE ORDER MATTERS SO MUCH",
+   "items": [
+    "Your entire return argument depends on your residence status",
+    "An expiring visa undermines it regardless of everything else",
+    "Renewing first costs patience, not money",
+    "Applying in the wrong order costs a non-refundable fee"
+   ]
+  },
+  {
+   "type": "photoband",
+   "photo": "passportDesk",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "RENEW FIRST. APPLY SECOND.",
+   "sub": "Almost always the right sequence."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "headline": "THE FULL UAE-RESIDENT PICTURE",
+   "items": [
+    "Emirates ID, valid and current",
+    "Residence visa running well past your return",
+    "Tenancy contract in your name",
+    "Salary certificate and employer NOC",
+    "Bank history showing steady credits"
+   ]
+  },
+  {
+   "type": "photocta",
+   "photo": "tarmac",
+   "tag": "FREE CONSULTATION",
+   "headline": "SEND ONE MESSAGE. WE DO THE REST.",
+   "sub": "Your visa. Our paperwork.",
+   "checks": [
+    "Application form and cover letter",
+    "Health insurance",
+    "Flight and hotel reservations",
+    "Day-by-day itinerary"
+   ]
+  }
+ ]
+}

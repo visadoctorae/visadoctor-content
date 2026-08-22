@@ -1,0 +1,70 @@
+{
+ "caption": "Schengen visa holders from Dubai: does the EU's Entry/Exit System change anything for you?\n\nEvery few weeks a headline suggests Europe is closing. Usually it is not.\n\nThe Entry/Exit System records crossings digitally instead of stamping passports. Your visa is unchanged. What changes is that your days are now counted automatically — which makes miscounting the 90/180 window a recorded overstay rather than a quiet mistake.\n\nWe track every rule change so you do not have to guess.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#SchengenVisa #EES #VisaNews #VisaDoctorUAE #DubaiExpats #UAEResidents #EuropeTravel",
+ "alt": "EU Entry Exit System explained for Schengen visa holders resident in the UAE",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "berlin",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "VISA NEWS",
+     "style": "out"
+    }
+   ],
+   "headline": "IS EUROPE ABOUT TO GET HARDER TO ENTER?",
+   "sub": "Every month, a new headline says yes.",
+   "note": "Panic travels faster than policy. Here is what actually changed — and what did not."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "MOSTLY, NO.",
+   "body": "Your Schengen visa works exactly as it did. No new visa category. No new refusal ground. No change to who can apply.",
+   "note": "What changed is how your time inside the Schengen area is recorded — and that part does matter."
+  },
+  {
+   "type": "sourcecard",
+   "tone": "dark",
+   "tag": "WHAT CHANGED",
+   "headline": "STAMPS ARE BEING REPLACED BY A DIGITAL RECORD",
+   "body": "The Entry/Exit System registers short-stay travellers electronically at the border instead of stamping the passport. Entries and exits are logged automatically.",
+   "source": "European Commission · travel-europe.europa.eu",
+   "takeaway": "The rule did not change. The bookkeeping did."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "style": "cross",
+   "headline": "WHAT THIS ACTUALLY MEANS FOR YOU",
+   "sub": "Three practical consequences.",
+   "items": [
+    "Your 90 days in any 180 are now counted automatically, not estimated",
+    "An overstay you did not notice is still a recorded overstay",
+    "A verification error at the gate can delay boarding, even with a valid visa"
+   ],
+   "footnote": "Check your status before you fly, not at the airport."
+  },
+  {
+   "type": "mythreality",
+   "tone": "light",
+   "headline": "THE ADVICE WE KEEP HEARING",
+   "never": "\"Nobody actually counts the days — just go, and sort it out at the border.\" That was never true, and it is now provably false. The record follows you into every future application.",
+   "instead": "Count the window before you book. Take your entry date, look back 180 days, add every Schengen day inside it. Under 90 and you are clear. We run this for every client as part of the file.",
+   "neverLabel": "Bad visa advice",
+   "insteadLabel": "What we do"
+  },
+  {
+   "type": "photocta",
+   "photo": "board",
+   "tag": "FREE CONSULTATION",
+   "headline": "WE TRACK THE RULES SO YOU DON'T HAVE TO.",
+   "sub": "Not every headline is a reason to panic.",
+   "checks": [
+    "We calculate your 90/180 window",
+    "We check your status before you travel",
+    "We build the full file, end to end"
+   ]
+  }
+ ]
+}

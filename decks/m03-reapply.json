@@ -1,0 +1,75 @@
+{
+ "caption": "Bad visa advice: \"just apply again, you'll get a different officer.\"\n\nYou might. You will also be handing them the same file, plus a refusal on your record that they can see.\n\nThe letter identifies the category of the problem. Fix that first, rebuild properly, then apply. A stronger application next month beats a weak one tomorrow.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#BadVisaAdvice #VisaRefusal #VisaDoctorUAE #DubaiExpats #UAEResidents #VisaHelp",
+ "alt": "Why not to reapply immediately after a visa refusal from the UAE",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20refusal%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "passportClose",
+   "scrim": "alert",
+   "pills": [
+    {
+     "t": "BAD VISA ADVICE",
+     "style": "out"
+    }
+   ],
+   "headline": "\"JUST APPLY AGAIN. YOU'LL GET A DIFFERENT OFFICER.\"",
+   "sub": "You might. The file will be the same.",
+   "note": "And now there is a refusal on your record that the next officer can see."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "REFUSALS DO NOT EXPIRE QUIETLY.",
+   "body": "They stay on your record. A second refusal on the same weak file means explaining two, not one.",
+   "note": "Each one makes the next application harder, not easier."
+  },
+  {
+   "type": "numbered",
+   "tone": "light",
+   "kicker": "What",
+   "headline": "TO DO INSTEAD",
+   "items": [
+    "Read the refusal letter and identify the category of the problem",
+    "Fix that specific weakness — not everything at once",
+    "Rebuild the file so it answers the objection directly",
+    "Then apply, with the gap actually closed"
+   ]
+  },
+  {
+   "type": "mythreality",
+   "tone": "light",
+   "headline": "THE INSTINCT VERSUS THE STRATEGY",
+   "never": "Resubmit within days because the trip is soon. Urgency does not improve a file. It just produces a faster second refusal.",
+   "instead": "Treat the refusal as a diagnosis. Close the specific gap, evidence it properly, and submit when the file genuinely answers the question that was asked.",
+   "neverLabel": "The instinct",
+   "insteadLabel": "What we do"
+  },
+  {
+   "type": "photoband",
+   "photo": "rome",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "BRING US THE REFUSAL LETTER.",
+   "sub": "That is where we start."
+  },
+  {
+   "type": "photocta",
+   "photo": "tarmac",
+   "tag": "FREE CONSULTATION",
+   "headline": "SEND ONE MESSAGE. WE DO THE REST.",
+   "sub": "Your visa. Our paperwork.",
+   "checks": [
+    "Application form and cover letter",
+    "Health insurance",
+    "Flight and hotel reservations",
+    "Day-by-day itinerary"
+   ]
+  }
+ ]
+}

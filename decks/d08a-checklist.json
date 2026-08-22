@@ -1,0 +1,75 @@
+{
+ "caption": "The complete tourist visa file — what is actually in it.\n\nApplication form. Health insurance. Flight reservations. Hotel reservations. Cover letter. Day-by-day itinerary. And the right consulate for your profile.\n\nMost applications submitted from the UAE have three or four of these. That gap is the whole difference between hoping and knowing.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#VisaChecklist #SchengenVisa #VisaDoctorUAE #DubaiExpats #UAEResidents #TravelPrep",
+ "alt": "Complete tourist visa document checklist for UAE residents",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20checklist%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "passportDesk",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "SAVE THIS",
+     "style": "out"
+    }
+   ],
+   "headline": "THIS IS A COMPLETE FILE.",
+   "sub": "Most applications are missing three of these.",
+   "note": "The gap between a complete file and an almost-complete one is where refusals live."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "AND THE RIGHT CONSULATE.",
+   "body": "A complete file submitted to the wrong post is still the wrong application.",
+   "note": "Everything else is downstream of that one decision."
+  },
+  {
+   "type": "numbered",
+   "tone": "light",
+   "kicker": "What",
+   "headline": "BELONGS IN THE FILE",
+   "items": [
+    "Application form, correctly completed",
+    "Compliant health insurance",
+    "Flight and hotel reservations",
+    "Cover letter written around your case",
+    "Day-by-day itinerary that matches everything else"
+   ]
+  },
+  {
+   "type": "photoband",
+   "photo": "writing",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "AND THE RIGHT CONSULATE FOR YOUR PROFILE.",
+   "sub": "The choice that decides the rest."
+  },
+  {
+   "type": "mythreality",
+   "tone": "light",
+   "headline": "WHERE COMPLETE FILES STILL FAIL",
+   "never": "Assemble every document correctly but never cross-check them against each other. Seven correct documents that disagree on dates read worse than five that agree.",
+   "instead": "Audit the set as a whole — dates, amounts, addresses, purpose — so the file tells one story from first page to last.",
+   "neverLabel": "What you should never do",
+   "insteadLabel": "What we do"
+  },
+  {
+   "type": "photocta",
+   "photo": "packing",
+   "tag": "FREE CONSULTATION",
+   "headline": "WE BUILD ALL OF IT.",
+   "checks": [
+    "Every document above",
+    "Consulate selection",
+    "Full audit before submission"
+   ],
+   "sub": "Your visa. Our paperwork."
+  }
+ ]
+}

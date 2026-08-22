@@ -1,0 +1,74 @@
+{
+ "caption": "UAE residents have advantages most applicants do not. Use them.\n\nA stable job, a documented residence, verifiable income, and a life that is clearly anchored in Dubai — these are exactly the things consulates want to see.\n\nThe mistake is presenting a UAE-resident profile as though you were applying from your home country. Build the file around the life you actually have here.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#UAEResidents #DubaiExpats #SchengenVisa #VisaDoctorUAE #VisaTips #DubaiLife",
+ "alt": "Advantages UAE residents have when applying for tourist visas",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20UAE%20resident%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "dubai",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "UAE RESIDENTS",
+     "style": "out"
+    }
+   ],
+   "headline": "YOU HAVE ADVANTAGES. USE THEM.",
+   "sub": "Dubai is an asset in this application.",
+   "note": "Stable employment, documented residence and verifiable income are exactly what consulates want to see."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "DUBAI IS AN ASSET HERE.",
+   "body": "Stable residence, documented employment, a traceable banking history — these are exactly the things consulates find reassuring.",
+   "note": "The mistake is applying as though you live somewhere else."
+  },
+  {
+   "type": "numbered",
+   "tone": "light",
+   "kicker": "Which",
+   "headline": "ADVANTAGES YOU ALREADY HAVE",
+   "items": [
+    "Documented residence with a clear expiry date",
+    "Employment that is formally evidenced",
+    "Income that is traceable and regular",
+    "A life visibly anchored in one place"
+   ]
+  },
+  {
+   "type": "photoband",
+   "photo": "barcelona",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "THE MISTAKE IS APPLYING LIKE YOU LIVE SOMEWHERE ELSE.",
+   "sub": "Build the file around Dubai."
+  },
+  {
+   "type": "mythreality",
+   "tone": "light",
+   "headline": "THE MISTAKE UAE RESIDENTS MAKE",
+   "never": "Follow a generic guide written for someone applying from their home country, and build the file around ties there instead of ties here. It is the most common reason strong profiles get refused.",
+   "instead": "Build the entire case around your life in the UAE — residence, employment, banking, commitments. That is where your ties actually are.",
+   "neverLabel": "What generic advice tells you",
+   "insteadLabel": "What we do"
+  },
+  {
+   "type": "photocta",
+   "photo": "terminal",
+   "tag": "FREE CONSULTATION",
+   "headline": "WE BUILD AROUND YOUR UAE PROFILE.",
+   "checks": [
+    "UAE-specific file structure",
+    "Employment and residence properly evidenced",
+    "Consulate matched to your profile"
+   ],
+   "sub": "Because that is where your case is."
+  }
+ ]
+}

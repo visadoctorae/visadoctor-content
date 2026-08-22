@@ -1,0 +1,77 @@
+{
+ "caption": "Send one message. We do the rest.\n\nApplication form. Health insurance. Flight and hotel reservations. Cover letter. Day-by-day itinerary. Appointment secured. Documents audited before anyone else sees them.\n\nOne WhatsApp message puts specialists on all of it. The consultation costs nothing, and if your file is straightforward we will tell you that too.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#VisaDoctorUAE #VisaConsultantDubai #DubaiExpats #UAEResidents #DubaiServices #VisaHelp",
+ "alt": "What Visa Doctor does for UAE residents applying for tourist and business visas",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20service%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "writing",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "HOW IT WORKS",
+     "style": "out"
+    }
+   ],
+   "headline": "SEND ONE MESSAGE. WE DO THE REST.",
+   "sub": "Your visa. Our paperwork.",
+   "note": "One WhatsApp message puts specialists on the whole file. The consultation costs nothing."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "YOU SEND ONE MESSAGE.",
+   "body": "Then we ask what we need, build the file, book the appointment and tell you exactly what to bring.",
+   "note": "The paperwork is the part we are for."
+  },
+  {
+   "type": "numbered",
+   "tone": "dark",
+   "kicker": "How",
+   "headline": "THE PROCESS RUNS",
+   "items": [
+    "You message us — we ask a few questions",
+    "We diagnose the file and pick the consulate",
+    "We build every document and secure the appointment",
+    "We audit everything before submission"
+   ]
+  },
+  {
+   "type": "photoband",
+   "photo": "familyTerminal",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "WE AUDIT BEFORE THEY DO.",
+   "sub": "Better we find it than they do."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "headline": "HOW THE PROCESS RUNS",
+   "items": [
+    "Free diagnosis of your case",
+    "Document list built around your profile",
+    "Full file prepared and cross-checked",
+    "Appointment booked and confirmed",
+    "You attend — we tell you what to expect"
+   ]
+  },
+  {
+   "type": "photocta",
+   "photo": "terminal",
+   "tag": "FREE CONSULTATION",
+   "headline": "THE DIAGNOSIS COSTS NOTHING.",
+   "checks": [
+    "Free profile review",
+    "Honest answer, including 'you don't need us'",
+    "Written scope before any payment"
+   ],
+   "sub": "Find out before you pay anything."
+  }
+ ]
+}

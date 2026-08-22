@@ -1,0 +1,78 @@
+{
+ "caption": "We built a free Schengen 90/180 calculator because people keep counting it wrong.\n\nThe rule is a rolling window, not a calendar year. Take your entry date, count back 180 days, add every Schengen day inside it. Under 90 and you are clear.\n\nMost people count from January. That is not how it works — and since the EU began recording crossings digitally, a miscount is a logged overstay rather than a quiet mistake.\n\nThe calculator is free on our site. No signup.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#SchengenVisa #Schengen90180 #VisaDoctorUAE #DubaiExpats #UAEResidents #FreeTool #EuropeTravel",
+ "alt": "Free Schengen 90 180 day calculator for UAE residents on visadoctor.ae",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%2090/180%20calculator%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "calendar",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "FREE TOOL",
+     "style": "out"
+    },
+    {
+     "t": "SCHENGEN",
+     "style": "fill"
+    }
+   ],
+   "headline": "MOST PEOPLE COUNT THEIR 90 DAYS WRONG.",
+   "sub": "So we built something that does it for you.",
+   "note": "The 90/180 rule is a rolling window. It moves with you, daily. It never resets in January."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "IT IS NOT A CALENDAR YEAR.",
+   "body": "In any 180 days counting backwards from your entry date, your total days inside Schengen must stay under 90.",
+   "note": "The window moves every single day. Yesterday's answer is not today's answer."
+  },
+  {
+   "type": "numbered",
+   "tone": "light",
+   "kicker": "How",
+   "headline": "TO COUNT IT YOURSELF",
+   "items": [
+    "Take your planned entry date",
+    "Count back 180 days from it",
+    "Add every day spent inside Schengen in that window",
+    "Under 90 and you are clear to enter"
+   ]
+  },
+  {
+   "type": "sourcecard",
+   "tone": "dark",
+   "tag": "WHY IT MATTERS NOW",
+   "headline": "YOUR DAYS ARE COUNTED AUTOMATICALLY NOW",
+   "body": "The EU's Entry/Exit System records short-stay crossings digitally instead of stamping passports. Miscounting is no longer invisible.",
+   "source": "European Commission · travel-europe.europa.eu",
+   "takeaway": "An overstay you did not intend still reads as an overstay."
+  },
+  {
+   "type": "photoband",
+   "photo": "venice",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "SO WE MADE THE MATHS SOMEONE ELSE'S PROBLEM.",
+   "sub": "Free. No signup. No catch."
+  },
+  {
+   "type": "photocta",
+   "photo": "tarmac",
+   "tag": "FREE TOOL",
+   "headline": "USE IT FREE ON VISADOCTOR.AE",
+   "sub": "No signup. No charge.",
+   "checks": [
+    "Built for UAE residents",
+    "Free to use, always",
+    "Or message us and we'll run it with you"
+   ]
+  }
+ ]
+}

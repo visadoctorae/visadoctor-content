@@ -1,0 +1,77 @@
+{
+ "caption": "Your refusal letter has a code on it. Most people never find out what it means.\n\nSchengen refusals cite numbered grounds. They are terse, bureaucratic and rarely explained — so most applicants reapply without ever understanding what was actually wrong.\n\nThat is how people collect a second refusal.\n\nWe built a free decoder that translates the grounds into plain English and tells you what typically fixes each one.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#VisaRefusal #SchengenVisa #VisaDoctorUAE #DubaiExpats #UAEResidents #FreeTool #VisaHelp",
+ "alt": "Free visa refusal reason decoder tool for UAE residents",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20refusal%20decoder%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "writing",
+   "scrim": "alert",
+   "pills": [
+    {
+     "t": "FREE TOOL",
+     "style": "out"
+    }
+   ],
+   "headline": "YOUR REFUSAL LETTER IS TRYING TO TELL YOU SOMETHING.",
+   "sub": "Most people never decode it.",
+   "note": "Refusals cite numbered grounds. Terse, bureaucratic, rarely explained. So people reapply blind."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "A REFUSAL IS A DIAGNOSIS.",
+   "body": "It tells you the category of the problem. Not the whole story — but enough to know what to fix before you try again.",
+   "note": "Reapplying without decoding it is how a first refusal becomes a second."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "style": "cross",
+   "headline": "WHAT THE GROUNDS USUALLY POINT TO",
+   "sub": "Broad categories, not verdicts.",
+   "items": [
+    "Purpose of the trip not sufficiently established",
+    "Justification for the intended stay unclear",
+    "Means of subsistence not demonstrated",
+    "Intention to leave before visa expiry not established",
+    "Information submitted was not reliable"
+   ],
+   "footnote": "Wording varies by consulate. Always read your own letter."
+  },
+  {
+   "type": "mythreality",
+   "tone": "light",
+   "headline": "WHAT PEOPLE DO NEXT",
+   "never": "Resubmit the same file within days, hoping a different officer sees it differently. The file has not changed, so the outcome usually does not either — and now there are two refusals on record.",
+   "instead": "Decode the ground. Fix that specific weakness. Rebuild the file so it answers the objection directly. Then apply.",
+   "neverLabel": "What usually happens",
+   "insteadLabel": "What we do"
+  },
+  {
+   "type": "photoband",
+   "photo": "rome",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "WE BUILT THE DECODER FREE.",
+   "sub": "Because guessing is expensive."
+  },
+  {
+   "type": "photocta",
+   "photo": "tarmac",
+   "tag": "FREE TOOL",
+   "headline": "USE IT FREE ON VISADOCTOR.AE",
+   "sub": "No signup. No charge.",
+   "checks": [
+    "Built for UAE residents",
+    "Free to use, always",
+    "Or message us and we'll run it with you"
+   ]
+  }
+ ]
+}

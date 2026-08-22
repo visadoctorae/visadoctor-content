@@ -1,0 +1,74 @@
+{
+ "caption": "Nobody can guarantee visa approval. Here is what we do guarantee.\n\nAny agency promising guaranteed approval is lying to you. The decision belongs to the consulate — no agent changes that.\n\nWhat we control is everything before the decision: a complete file, documents that agree with each other, the right consulate, and every predictable objection answered in advance. And if we cannot secure your appointment in the timeframe we promise, you get a full refund.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#VisaDoctorUAE #VisaConsultantDubai #DubaiExpats #UAEResidents #HonestAdvice #VisaHelp",
+ "alt": "Visa Doctor appointment guarantee and refund policy for UAE clients",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20guarantee%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "handshake",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "TRUST",
+     "style": "out"
+    }
+   ],
+   "headline": "NOBODY CAN GUARANTEE APPROVAL.",
+   "sub": "Anyone who says otherwise is lying.",
+   "note": "The decision belongs to the consulate. No agent, no fee and no promise changes that."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "NOBODY DECIDES BUT THE CONSULATE.",
+   "body": "Not us, not any agency, not any fee. What we control is everything that happens before the decision.",
+   "note": "So that is what we make promises about."
+  },
+  {
+   "type": "numbered",
+   "tone": "dark",
+   "kicker": "What",
+   "headline": "WE ACTUALLY CONTROL",
+   "items": [
+    "Whether your file is complete",
+    "Whether your documents agree with each other",
+    "Which consulate receives the application",
+    "Whether predictable objections are answered in advance"
+   ]
+  },
+  {
+   "type": "photoband",
+   "photo": "dubai",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "APPOINTMENT IN THE AGREED TIME, OR FULL REFUND.",
+   "sub": "Honest scope, real promise."
+  },
+  {
+   "type": "mythreality",
+   "tone": "light",
+   "headline": "THE PROMISE TO WALK AWAY FROM",
+   "never": "\"Guaranteed approval\" or \"100% success, pay now.\" Nobody can commit to a decision they do not make. A promise like that tells you how the rest of the relationship will go.",
+   "instead": "A written scope of what we will do, a clear timeframe, and a refund if we miss it. Promises about our work, not theirs.",
+   "neverLabel": "What to walk away from",
+   "insteadLabel": "What we offer"
+  },
+  {
+   "type": "photocta",
+   "photo": "terminal",
+   "tag": "FREE CONSULTATION",
+   "headline": "REAL ROUTES. REAL PEOPLE. REAL RESULTS.",
+   "checks": [
+    "Licensed Dubai agency",
+    "Written scope before we start",
+    "Refund if we miss the agreed window"
+   ],
+   "sub": "Licensed. Verified. Refundable."
+  }
+ ]
+}

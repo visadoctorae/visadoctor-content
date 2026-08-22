@@ -1,0 +1,74 @@
+{
+ "caption": "Bad visa advice: \"buy the tickets first, it shows commitment.\"\n\nIt does not. Consulates ask for reservations, not purchases. Buying early adds nothing to your file and puts real money at risk if you are refused or your dates move.\n\nProper reservations do the job the application actually requires: a real, dated, coherent plan.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#BadVisaAdvice #FlightReservation #SchengenVisa #VisaDoctorUAE #DubaiExpats #UAEResidents",
+ "alt": "Why not to buy flights before visa approval when applying from Dubai",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20flight%20booking%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "tarmac",
+   "scrim": "alert",
+   "pills": [
+    {
+     "t": "BAD VISA ADVICE",
+     "style": "out"
+    }
+   ],
+   "headline": "\"BUY THE TICKETS FIRST. IT SHOWS COMMITMENT.\"",
+   "sub": "It shows nothing. And it costs you.",
+   "note": "We hear this one constantly. It comes from people who have never had an application refused."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "CONSULATES ASK FOR RESERVATIONS.",
+   "body": "Not purchases. A dated, verifiable reservation satisfies the requirement completely.",
+   "note": "Buying early adds no weight to your file. It only adds exposure."
+  },
+  {
+   "type": "mythreality",
+   "tone": "light",
+   "headline": "WHAT THIS ADVICE ACTUALLY COSTS",
+   "never": "Purchase non-refundable tickets before approval. If the application is refused, or your dates shift during processing, that money is gone — on top of a non-refundable visa fee.",
+   "instead": "Issue proper reservations that hold for the application period, matched exactly to your itinerary and your cover letter. Nothing is at risk before the decision.",
+   "neverLabel": "What you should never do",
+   "insteadLabel": "What we do"
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "headline": "WHAT A RESERVATION MUST DO",
+   "items": [
+    "Show real, verifiable dates",
+    "Match your application dates exactly",
+    "Cover accommodation for every night of the stay",
+    "Agree with your stated itinerary"
+   ]
+  },
+  {
+   "type": "photoband",
+   "photo": "packing",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "NEVER GAMBLE AIRFARE ON A DECISION THAT HASN'T HAPPENED.",
+   "sub": "Reservations are part of every file we build."
+  },
+  {
+   "type": "photocta",
+   "photo": "packing",
+   "tag": "FREE CONSULTATION",
+   "headline": "SEND ONE MESSAGE. WE DO THE REST.",
+   "sub": "Your visa. Our paperwork.",
+   "checks": [
+    "Application form and cover letter",
+    "Health insurance",
+    "Flight and hotel reservations",
+    "Day-by-day itinerary"
+   ]
+  }
+ ]
+}

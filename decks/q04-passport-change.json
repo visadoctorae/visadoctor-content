@@ -1,0 +1,74 @@
+{
+ "caption": "\"I renewed my passport. What happens to my visa?\" It depends on the country — and the answer matters at the gate.\n\nSome visas remain valid in the old passport and you carry both. Some permissions are linked digitally and the link must be updated. Get it wrong and you can be stopped at boarding with a perfectly valid visa.\n\nCheck before you book, not at the airport.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#PassportRenewal #VisaTips #UKVisa #SchengenVisa #VisaDoctorUAE #DubaiExpats #UAEResidents",
+ "alt": "What happens to your visa when you renew your passport UAE residents",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20passport%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "passportHeld",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "YOU ASKED",
+     "style": "out"
+    }
+   ],
+   "headline": "\"I RENEWED MY PASSPORT. WHAT HAPPENS TO MY VISA?\"",
+   "sub": "It depends. And it matters at the gate.",
+   "note": "This is one of the most common ways a valid visa still fails to get someone on a plane."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "IT DEPENDS ON THE COUNTRY.",
+   "body": "Some visas stay valid in the old passport and you travel with both. Some permissions are linked digitally and that link has to be updated.",
+   "note": "There is no universal rule, which is exactly why people get caught out."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "headline": "WHAT TO CONFIRM BEFORE YOU BOOK",
+   "items": [
+    "Whether the visa stays valid in the expired passport",
+    "Whether you must carry both documents",
+    "Whether a digital record needs your new passport number",
+    "Whether the airline will accept the combination at check-in"
+   ]
+  },
+  {
+   "type": "photoband",
+   "photo": "board",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "A VALID VISA IS NOT ALWAYS A USABLE VISA.",
+   "sub": "Check before the airport."
+  },
+  {
+   "type": "sourcecard",
+   "tone": "dark",
+   "tag": "THE HABIT WORTH BUILDING",
+   "headline": "CHECK YOUR STATUS BEFORE EVERY TRIP",
+   "body": "Digital systems are now involved in more permissions than they used to be. A two-minute check before booking prevents the problem entirely.",
+   "source": "Official government sources for your destination",
+   "takeaway": "Two minutes now, or a missed flight later."
+  },
+  {
+   "type": "photocta",
+   "photo": "board",
+   "tag": "FREE CONSULTATION",
+   "headline": "SEND ONE MESSAGE. WE DO THE REST.",
+   "sub": "Your visa. Our paperwork.",
+   "checks": [
+    "Application form and cover letter",
+    "Health insurance",
+    "Flight and hotel reservations",
+    "Day-by-day itinerary"
+   ]
+  }
+ ]
+}

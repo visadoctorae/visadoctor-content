@@ -1,0 +1,76 @@
+{
+ "caption": "Every visa checklist online is generic. Yours should not be.\n\nThe documents you need depend on your nationality, your residence status, your destination, your purpose and who is funding the trip. A generic list gets you most of the way and then leaves the gap that costs you the application.\n\nWe built a generator that produces the list for your specific profile. Free.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#VisaChecklist #SchengenVisa #VisaDoctorUAE #DubaiExpats #UAEResidents #FreeTool",
+ "alt": "Free visa document checklist generator for UAE residents",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20document%20checklist%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "passportHeld",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "FREE TOOL",
+     "style": "out"
+    }
+   ],
+   "headline": "GENERIC CHECKLISTS LEAVE GAPS.",
+   "sub": "And the gap is where the refusal lives.",
+   "note": "What you need depends on nationality, residence, destination, purpose and funding. No single list covers all of that."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "headline": "WHAT MOST LISTS INCLUDE",
+   "items": [
+    "Application form",
+    "Passport and photos",
+    "Travel medical insurance",
+    "Flight and hotel reservations",
+    "Proof of funds",
+    "Employment letter"
+   ],
+   "footnote": "All necessary. None of it sufficient on its own."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "THE LIST IS NOT THE HARD PART.",
+   "body": "Making it agree with itself is. Your statement should support your itinerary. Your itinerary should match your reservations. Your letter should explain both.",
+   "note": "One date that drifts, and the whole file starts being read differently."
+  },
+  {
+   "type": "mythreality",
+   "tone": "light",
+   "headline": "HOW FILES ACTUALLY FAIL",
+   "never": "Tick every box on a downloaded list and assume that is enough. Officers are not auditing a checklist — they are checking whether the set of documents tells one coherent story.",
+   "instead": "Cross-check every document against every other before submission. Dates, amounts, addresses, purpose. We do this on every file as a matter of routine.",
+   "neverLabel": "The checklist illusion",
+   "insteadLabel": "What we do"
+  },
+  {
+   "type": "photoband",
+   "photo": "packing",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "GET THE LIST FOR YOUR PROFILE.",
+   "sub": "Not for someone else's."
+  },
+  {
+   "type": "photocta",
+   "photo": "packing",
+   "tag": "FREE TOOL",
+   "headline": "USE IT FREE ON VISADOCTOR.AE",
+   "sub": "No signup. No charge.",
+   "checks": [
+    "Built for UAE residents",
+    "Free to use, always",
+    "Or message us and we'll run it with you"
+   ]
+  }
+ ]
+}

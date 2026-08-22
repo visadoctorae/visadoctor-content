@@ -1,0 +1,74 @@
+{
+ "caption": "Before you pay any fee, find out whether your profile is actually ready.\n\nThat is what the free consultation is for. We look at your residence status, employment, travel history, funds and destination — then tell you plainly whether to apply now or fix something first.\n\nSometimes the honest answer is wait. Sometimes it is that a different consulate suits you better. Either way you will know before you spend a non-refundable fee.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#FreeConsultation #VisaDoctorUAE #VisaConsultantDubai #DubaiExpats #UAEResidents #VisaHelp",
+ "alt": "Free visa consultation for UAE residents before paying any fee",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20consultation%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "handshake",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "FREE CONSULTATION",
+     "style": "out"
+    }
+   ],
+   "headline": "FIND OUT BEFORE YOU PAY.",
+   "sub": "The diagnosis costs nothing.",
+   "note": "We look at your residence status, employment, travel history, funds and destination — then tell you plainly."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "SOMETIMES THE ANSWER IS WAIT.",
+   "body": "If your file is not ready, we would rather say so than take money for an application likely to fail.",
+   "note": "The diagnosis costs nothing either way."
+  },
+  {
+   "type": "numbered",
+   "tone": "light",
+   "kicker": "What",
+   "headline": "WE REVIEW WITH YOU",
+   "items": [
+    "Your residence status and its validity",
+    "Employment and income evidence",
+    "Travel history and any previous refusals",
+    "The destination and the right consulate for it"
+   ]
+  },
+  {
+   "type": "photoband",
+   "photo": "calendar",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "SOMETIMES THE HONEST ANSWER IS WAIT.",
+   "sub": "We will say so."
+  },
+  {
+   "type": "mythreality",
+   "tone": "light",
+   "headline": "WHAT A FREE CONSULTATION IS NOT",
+   "never": "A sales call dressed as advice, where the answer is always yes and the fee is quoted before anyone has looked at your documents.",
+   "instead": "A look at your actual situation, an honest read on whether it is ready, and a clear answer — including when that answer is not yet.",
+   "neverLabel": "What to expect elsewhere",
+   "insteadLabel": "What to expect here"
+  },
+  {
+   "type": "photocta",
+   "photo": "terminal",
+   "tag": "FREE CONSULTATION",
+   "headline": "MESSAGE US. THE DIAGNOSIS IS FREE.",
+   "checks": [
+    "Free profile review",
+    "Honest recommendation",
+    "No obligation to proceed"
+   ],
+   "sub": "Your visa. Our paperwork."
+  }
+ ]
+}

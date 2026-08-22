@@ -1,0 +1,78 @@
+{
+ "caption": "Your credit card travel insurance probably does not qualify for Schengen.\n\nTravel insurance and Schengen-compliant medical insurance are not the same thing. The requirement is specific: a minimum medical coverage amount, valid across all Schengen states, covering your entire stay including repatriation.\n\nFail one condition and it is a technical rejection — before anyone reads your cover letter.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#TravelInsurance #SchengenVisa #VisaDoctorUAE #DubaiExpats #UAEResidents #HealthInsurance",
+ "alt": "Schengen travel medical insurance requirements for UAE residents",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20health%20insurance%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "swiss",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "OVERLOOKED",
+     "style": "out"
+    }
+   ],
+   "headline": "YOUR TRAVEL INSURANCE MIGHT NOT QUALIFY.",
+   "sub": "Cover is not the same as compliant cover.",
+   "note": "The policy bundled with your credit card usually fails at least one condition."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "COVER IS NOT COMPLIANT COVER.",
+   "body": "Your existing travel policy may be perfectly good insurance and still fail the specific conditions a consulate requires.",
+   "note": "This one gets caught before anyone reads your cover letter."
+  },
+  {
+   "type": "numbered",
+   "tone": "dark",
+   "kicker": "Which",
+   "headline": "CONDITIONS IT MUST MEET",
+   "items": [
+    "Minimum medical coverage amount",
+    "Valid across all Schengen states",
+    "Covers your entire stay, start to finish",
+    "Includes repatriation"
+   ]
+  },
+  {
+   "type": "photoband",
+   "photo": "packing",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "A TECHNICAL REJECTION IS STILL A REJECTION.",
+   "sub": "And entirely avoidable."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "headline": "WHAT THE POLICY MUST DO",
+   "items": [
+    "Meet the minimum medical coverage required",
+    "Cover repatriation",
+    "Be valid across the whole territory",
+    "Cover every day of your stated stay",
+    "Be issued by an accepted provider"
+   ],
+   "footnote": "Requirements vary by destination — always confirm for your specific trip."
+  },
+  {
+   "type": "photocta",
+   "photo": "terminal",
+   "tag": "INCLUDED",
+   "headline": "WE ISSUE COMPLIANT INSURANCE WITH EVERY FILE.",
+   "checks": [
+    "Schengen-compliant policy issued",
+    "Covers your full stay",
+    "Included in the service"
+   ],
+   "sub": "One less thing to get wrong."
+  }
+ ]
+}

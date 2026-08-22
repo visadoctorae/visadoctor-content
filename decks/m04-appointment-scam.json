@@ -1,0 +1,72 @@
+{
+ "caption": "If someone offers you a guaranteed appointment for cash, walk away.\n\nAppointment slots are released by consulates and their official partners. Nobody holds a private reserve of them.\n\nWhat legitimately works is unglamorous: the correct consulate for your profile, a complete file ready the moment a slot opens, and constant monitoring. Anyone selling certainty is selling something they do not have.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#ScamAlert #VisaScam #SchengenVisaDubai #VisaDoctorUAE #DubaiExpats #UAEResidents",
+ "alt": "Guaranteed Schengen appointment scam warning for UAE residents",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20appointment%20scam%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "terminal",
+   "scrim": "alert",
+   "pills": [
+    {
+     "t": "SCAM WATCH",
+     "style": "out"
+    }
+   ],
+   "headline": "NOBODY HAS A PRIVATE STOCK OF APPOINTMENT SLOTS.",
+   "sub": "If they guarantee one for cash, walk away.",
+   "note": "Slots are released by consulates and their official partners. That is the only source there is."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "style": "cross",
+   "headline": "HOW TO SPOT IT",
+   "items": [
+    "A guaranteed slot, for a fee, on demand",
+    "Payment requested before any written scope of work",
+    "Pressure to decide today",
+    "No traceable licence, address or public record",
+    "A promise about the outcome, not just the appointment"
+   ]
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "CERTAINTY IS THE TELL.",
+   "body": "Nobody can guarantee an appointment on demand, and nobody can guarantee a consulate's decision.",
+   "note": "Anyone comfortable promising both is comfortable lying about one."
+  },
+  {
+   "type": "mythreality",
+   "tone": "light",
+   "headline": "WHAT LEGITIMATELY WORKS",
+   "never": "Pay cash for a promise with nothing in writing. If the slot never appears, you have no scope, no contract and no recourse.",
+   "instead": "The right consulate for your profile, a complete file ready before a slot opens, and daily monitoring. Unglamorous, and it is the actual job.",
+   "neverLabel": "The scam",
+   "insteadLabel": "What we do"
+  },
+  {
+   "type": "sourcecard",
+   "tone": "dark",
+   "tag": "OUR GUARANTEE",
+   "headline": "NARROW ON PURPOSE",
+   "body": "We guarantee the appointment within the timeframe we agree in writing, or you get a full refund. We do not guarantee the decision, because that is the consulate's to make.",
+   "source": "visadoctor.ae",
+   "takeaway": "A promise about our work. Not about theirs."
+  },
+  {
+   "type": "photocta",
+   "photo": "terminal",
+   "tag": "FREE CONSULTATION",
+   "headline": "SEND ONE MESSAGE. WE DO THE REST.",
+   "sub": "Your visa. Our paperwork.",
+   "checks": [
+    "Application form and cover letter",
+    "Health insurance",
+    "Flight and hotel reservations",
+    "Day-by-day itinerary"
+   ]
+  }
+ ]
+}

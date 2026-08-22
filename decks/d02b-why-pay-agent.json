@@ -1,0 +1,75 @@
+{
+ "caption": "\"Why would I pay an agent?\" A fair question — here is the honest answer.\n\nYou can absolutely file it yourself. Plenty of people do, and plenty of them are fine.\n\nThe comparison that matters is not our fee versus free. It is our fee versus one refusal: a non-refundable fee, rebooked flights, leave you already requested, and a refusal that sits on your record.\n\nSome files are straightforward. If yours is, we will say so.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#VisaConsultantDubai #VisaDoctorUAE #SchengenVisa #DubaiExpats #UAEResidents #VisaHelp",
+ "alt": "What a visa agent fee covers for UAE residents versus the cost of a refusal",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20agent%20fee%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "writing",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "STRAIGHT TALK",
+     "style": "out"
+    }
+   ],
+   "headline": "\"WHY WOULD I PAY AN AGENT?\"",
+   "sub": "A fair question. Here is the honest answer.",
+   "note": "You can absolutely file it yourself. This is about what happens to the ones who get it wrong."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "THE FEE IS NOT THE EXPENSIVE PART.",
+   "body": "A refusal costs the fee, the flights, the leave you booked and the months before you can credibly reapply.",
+   "note": "That is the sum people are actually weighing, whether they realise it or not."
+  },
+  {
+   "type": "bignumber",
+   "tone": "alert",
+   "tag": "NON-REFUNDABLE",
+   "number": "0",
+   "label": "DIRHAMS RETURNED AFTER A REFUSAL",
+   "body": "The fee is gone. So are the flights, the leave you requested, and the appointment slot you waited weeks for."
+  },
+  {
+   "type": "photoband",
+   "photo": "handshake",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "WE WILL TELL YOU IF YOU DON'T NEED US.",
+   "sub": "That is what the free consultation is for."
+  },
+  {
+   "type": "numbered",
+   "tone": "light",
+   "kicker": "What",
+   "headline": "OUR FEE ACTUALLY BUYS",
+   "items": [
+    "The right consulate for your profile",
+    "A file where every document agrees with every other",
+    "Health insurance that meets the requirement",
+    "Reservations that hold without gambling on airfare",
+    "A cover letter and itinerary built around your case"
+   ]
+  },
+  {
+   "type": "photocta",
+   "photo": "terminal",
+   "tag": "FREE CONSULTATION",
+   "headline": "SEND ONE MESSAGE. WE DO THE REST.",
+   "checks": [
+    "Application form and cover letter",
+    "Health insurance",
+    "Flight and hotel reservations",
+    "Day-by-day itinerary"
+   ],
+   "sub": "Your visa. Our paperwork."
+  }
+ ]
+}

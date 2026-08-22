@@ -1,0 +1,76 @@
+{
+ "caption": "\"Are refusals going up?\" It is the question we get every time a headline runs.\n\nRefusal rates move, and they vary considerably by consulate and by nationality. But almost every refusal we review comes down to the same thing: the file, not the person.\n\nIncomplete documents. Dates that do not match. A financial story with a gap in it. Those are fixable.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#VisaRefusal #SchengenVisa #VisaDoctorUAE #DubaiExpats #UAEResidents #VisaTips",
+ "alt": "Are Schengen visa refusals rising for UAE residents explained",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20refusal%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "rome",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "VISA NEWS",
+     "style": "out"
+    }
+   ],
+   "headline": "\"ARE REFUSALS GOING UP?\"",
+   "sub": "Asked every time a headline runs.",
+   "note": "Rates move, and they differ sharply by consulate and nationality. The more useful question is why files fail."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "ALMOST ALWAYS, IT IS THE FILE.",
+   "body": "Not the person. Not the passport. The overwhelming majority of refusals we review trace back to documents that did not hold together.",
+   "note": "Which is genuinely good news, because that part is fixable."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "style": "cross",
+   "headline": "WHAT WE SEE MOST",
+   "items": [
+    "Documents that contradict each other on dates or amounts",
+    "A sudden deposit with no visible history",
+    "Reservations that do not match the stated itinerary",
+    "No evidence of what the applicant returns to",
+    "The wrong consulate for the actual trip"
+   ]
+  },
+  {
+   "type": "mythreality",
+   "tone": "light",
+   "headline": "HOW PEOPLE READ THE NEWS",
+   "never": "Conclude that approval is now a lottery and submit a weaker file because it probably will not matter. It matters more when scrutiny rises, not less.",
+   "instead": "Assume the file will be read carefully, and build one that survives being read carefully. That is the entire strategy.",
+   "neverLabel": "The wrong conclusion",
+   "insteadLabel": "What we do"
+  },
+  {
+   "type": "photoband",
+   "photo": "writing",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "WE AUDIT BEFORE THEY DO.",
+   "sub": "Better we find it than they do."
+  },
+  {
+   "type": "photocta",
+   "photo": "tarmac",
+   "tag": "FREE CONSULTATION",
+   "headline": "SEND ONE MESSAGE. WE DO THE REST.",
+   "sub": "Your visa. Our paperwork.",
+   "checks": [
+    "Application form and cover letter",
+    "Health insurance",
+    "Flight and hotel reservations",
+    "Day-by-day itinerary"
+   ]
+  }
+ ]
+}

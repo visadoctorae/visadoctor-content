@@ -1,0 +1,85 @@
+{
+ "caption": "Morocco visa from Dubai: we handle tourist and business files.\n\nRequirements differ by nationality and by purpose, and the documentation for a business trip is not the documentation for a holiday. Getting that distinction right at the start saves a resubmission later.\n\nTell us your passport and your purpose and we will tell you exactly what your file needs.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#MoroccoVisa #VisaDoctorUAE #DubaiExpats #UAEResidents #BusinessVisa #VisaConsultantDubai",
+ "alt": "Morocco tourist and business visa support for UAE residents",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20Morocco%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "morocco",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "MOROCCO",
+     "style": "out"
+    }
+   ],
+   "headline": "TOURIST OR BUSINESS — DIFFERENT FILES.",
+   "sub": "The distinction matters from day one.",
+   "note": "Requirements differ by nationality and by purpose. Getting it wrong means starting again."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "THE PURPOSE DECIDES THE FILE.",
+   "body": "Tourist and business are different applications with different evidence — from the first document onward, not at the end.",
+   "note": "Start in the wrong category and the whole file has to be rebuilt."
+  },
+  {
+   "type": "split",
+   "tone": "light",
+   "headline": "TWO PURPOSES, TWO DOCUMENT SETS",
+   "left": {
+    "title": "Tourist",
+    "items": [
+     "Itinerary and accommodation",
+     "Personal funds evidence",
+     "Return evidence",
+     "Travel insurance"
+    ]
+   },
+   "right": {
+    "title": "Business",
+    "items": [
+     "Host company invitation",
+     "Employer letter from the UAE",
+     "Purpose matching actual activity",
+     "Company documentation"
+    ]
+   }
+  },
+  {
+   "type": "photoband",
+   "photo": "handshake",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "TELL US THE PASSPORT AND THE PURPOSE.",
+   "sub": "We will tell you the file."
+  },
+  {
+   "type": "mythreality",
+   "tone": "light",
+   "headline": "THE SHORTCUT PEOPLE TRY",
+   "never": "Pick whichever category looks faster and hope the documents are close enough. The supporting evidence will not match the story, and that mismatch is what gets caught.",
+   "instead": "Tell us the passport and the purpose. We will tell you which file you actually need before anything is prepared.",
+   "neverLabel": "What you should never do",
+   "insteadLabel": "What we do"
+  },
+  {
+   "type": "photocta",
+   "photo": "tarmac",
+   "tag": "FREE CONSULTATION",
+   "headline": "29+ DESTINATIONS. ONE TEAM.",
+   "checks": [
+    "Requirements confirmed for your passport",
+    "Correct document set assembled",
+    "Full file prepared"
+   ],
+   "sub": "Tourist and business, end to end."
+  }
+ ]
+}

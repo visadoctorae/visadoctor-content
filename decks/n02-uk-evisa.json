@@ -1,0 +1,78 @@
+{
+ "caption": "UK visit visas are digital now. There is no sticker in your passport, and that catches people out at the gate.\n\nYour permission lives in an online account linked to your passport. Nothing physical to show. The airline checks the record.\n\nTwo consequences: if your passport details change, that link must be updated, and you need account access while travelling. Always confirm current guidance on gov.uk.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#UKVisa #eVisa #UKVisaDubai #VisaDoctorUAE #DubaiExpats #UAEResidents #VisaNews",
+ "alt": "UK eVisa digital visa explained for UAE residents travelling to Britain",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20UK%20visa%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "london",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "VISA NEWS",
+     "style": "out"
+    },
+    {
+     "t": "UK",
+     "style": "fill"
+    }
+   ],
+   "headline": "THERE IS NO STICKER IN YOUR PASSPORT ANYMORE.",
+   "sub": "Nothing has gone wrong.",
+   "note": "UK visit visas are digital. The permission exists — it just is not printed."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "IT LIVES IN AN ONLINE ACCOUNT.",
+   "body": "Linked to your passport. The airline checks the record at the gate, not a page in your passport.",
+   "note": "Faster passport return. And a new way to be caught out."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "headline": "WHAT THIS CHANGES FOR YOU",
+   "items": [
+    "Your permission is tied to one specific passport",
+    "Change passports and the link must be updated",
+    "You need account access while travelling",
+    "Screenshots are not a substitute for access"
+   ]
+  },
+  {
+   "type": "sourcecard",
+   "tone": "dark",
+   "tag": "WHERE TO CHECK",
+   "headline": "ALWAYS CONFIRM ON THE OFFICIAL SOURCE",
+   "body": "UK digital immigration guidance changes periodically. Before you travel, check your status directly rather than relying on a post — including this one.",
+   "source": "gov.uk",
+   "takeaway": "We track it. You should still check before you fly."
+  },
+  {
+   "type": "photoband",
+   "photo": "planeWindow",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "WE HANDLE THE DIGITAL SIDE TOO.",
+   "sub": "Digital visas. Human care."
+  },
+  {
+   "type": "photocta",
+   "photo": "planeWindow",
+   "tag": "FREE CONSULTATION",
+   "headline": "SEND ONE MESSAGE. WE DO THE REST.",
+   "sub": "Your visa. Our paperwork.",
+   "checks": [
+    "Application form and cover letter",
+    "Health insurance",
+    "Flight and hotel reservations",
+    "Day-by-day itinerary"
+   ]
+  }
+ ]
+}

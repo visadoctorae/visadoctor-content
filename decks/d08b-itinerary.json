@@ -1,0 +1,76 @@
+{
+ "caption": "\"Tourism\" is not a travel plan.\n\nUnder purpose of travel, most people write one word. That tells the officer nothing.\n\nA day-by-day itinerary proves three things at once: the trip is real, the budget matches the plan, and the return date is genuine rather than a placeholder. A vague trip reads as a cover story. A specific one reads as a holiday.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#TravelItinerary #VisaTips #SchengenVisa #VisaDoctorUAE #DubaiExpats #TravelPlanning",
+ "alt": "Why a day by day travel itinerary matters for visa approval",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20itinerary%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "venice",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "PURPOSE OF TRAVEL",
+     "style": "out"
+    }
+   ],
+   "headline": "\"TOURISM\" IS NOT A PLAN.",
+   "sub": "Specific reads as real. Vague reads as cover.",
+   "note": "One word under purpose of travel tells the officer nothing they needed to know."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "SPECIFIC READS AS REAL.",
+   "body": "Vague reads as cover. A day-by-day plan quietly answers the questions that would otherwise become doubts.",
+   "note": "Where you sleep, how you move between cities, what the trip is actually for."
+  },
+  {
+   "type": "numbered",
+   "tone": "dark",
+   "kicker": "What",
+   "headline": "A REAL ITINERARY PROVES",
+   "items": [
+    "The trip actually exists as a plan",
+    "Your budget matches what you described",
+    "The return date is genuine, not a placeholder",
+    "Your accommodation covers every night"
+   ]
+  },
+  {
+   "type": "photoband",
+   "photo": "prague",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "IT QUIETLY ANSWERS THE QUESTIONS THAT WOULD OTHERWISE BECOME DOUBTS.",
+   "sub": "Detail is reassurance."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "headline": "WHAT A REAL ITINERARY SHOWS",
+   "items": [
+    "Every night accounted for somewhere",
+    "Travel between cities that is actually possible",
+    "Dates matching your reservations exactly",
+    "A purpose consistent with the rest of the file"
+   ]
+  },
+  {
+   "type": "photocta",
+   "photo": "packing",
+   "tag": "INCLUDED",
+   "headline": "WE BUILD THE ITINERARY FOR YOU.",
+   "checks": [
+    "Day-by-day plan",
+    "Accommodation for every night",
+    "Consistent with your reservations"
+   ],
+   "sub": "Matched to every other document."
+  }
+ ]
+}

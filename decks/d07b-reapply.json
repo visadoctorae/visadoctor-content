@@ -1,0 +1,76 @@
+{
+ "caption": "Refused? Do not reapply this week.\n\nYour instinct is to submit again immediately. Don't. A refusal stays on your record and consulates can see it. The same weak file produces a second refusal — and now you are explaining two.\n\nThe letter identifies the category of the problem. Fix that first. Rebuild properly. Then apply.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#VisaRefusal #VisaTips #VisaDoctorUAE #DubaiExpats #UAEResidents #VisaHelp",
+ "alt": "How to reapply after a visa refusal as a UAE resident",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20refusal%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "passportClose",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "AFTER A REFUSAL",
+     "style": "out"
+    }
+   ],
+   "headline": "DON'T REAPPLY THIS WEEK.",
+   "sub": "A second refusal is harder than the first.",
+   "note": "Refusals stay on your record. Resubmitting the same file just adds another one."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "A SECOND REFUSAL IS HARDER.",
+   "body": "The record shows whether you learned anything between the two. Resubmitting the same file quickly shows that you did not.",
+   "note": "A strong application next month beats a weak one tomorrow."
+  },
+  {
+   "type": "numbered",
+   "tone": "dark",
+   "kicker": "What",
+   "headline": "TO DO INSTEAD",
+   "items": [
+    "Read the refusal letter and identify the category",
+    "Fix that specific weakness — not everything",
+    "Rebuild the file so it holds together",
+    "Then apply, with the gap closed"
+   ]
+  },
+  {
+   "type": "photoband",
+   "photo": "prague",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "A STRONG APPLICATION NEXT MONTH BEATS A WEAK ONE TOMORROW.",
+   "sub": "Patience is a strategy here."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "headline": "WHAT TO DO INSTEAD",
+   "items": [
+    "Read the refusal letter and identify the actual ground",
+    "Fix that specific weakness with real evidence",
+    "Let circumstances change where they need to",
+    "Rebuild the file to answer the objection directly"
+   ]
+  },
+  {
+   "type": "photocta",
+   "photo": "terminal",
+   "tag": "FREE CONSULTATION",
+   "headline": "BRING US THE REFUSAL. WE'LL DIAGNOSE IT.",
+   "checks": [
+    "We read the refusal with you",
+    "We identify the real weakness",
+    "We rebuild the file properly"
+   ],
+   "sub": "That is what we do."
+  }
+ ]
+}

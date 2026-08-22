@@ -1,0 +1,74 @@
+{
+ "caption": "Not sure which visa you actually need? That is a more common problem than you would think.\n\nTourist or business. Schengen or national. Visa or electronic authorisation. Which consulate. The answer depends on your nationality, your residence, your purpose and your route — and getting it wrong means starting over.\n\nWe built a free tool that asks the right questions and tells you.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#VisaDoctorUAE #VisaTips #DubaiExpats #UAEResidents #FreeTool #SchengenVisa #UKVisa",
+ "alt": "Free which visa do I need tool for UAE residents",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20which%20visa%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "board",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "FREE TOOL",
+     "style": "out"
+    }
+   ],
+   "headline": "WHICH VISA DO YOU ACTUALLY NEED?",
+   "sub": "More people get this wrong than you would expect.",
+   "note": "Tourist or business. Schengen or national. Visa or electronic authorisation. The wrong answer means starting over."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "headline": "WHAT CHANGES THE ANSWER",
+   "items": [
+    "Your nationality — requirements differ substantially",
+    "Your UAE residence status and its validity",
+    "Your purpose — tourism, business, study, family",
+    "Your route and where you will spend the most nights",
+    "Whether your destination uses a visa or a digital authorisation"
+   ]
+  },
+  {
+   "type": "mythreality",
+   "tone": "light",
+   "headline": "A DISTINCTION THAT CATCHES PEOPLE",
+   "never": "Assume a business visa lets you work. It covers meetings, conferences, negotiations and site visits — representing your employer abroad. It does not cover being employed locally or being paid locally.",
+   "instead": "Describe the trip accurately and apply in the right category. Inventing a purpose is exactly the inconsistency officers are trained to find.",
+   "neverLabel": "A costly assumption",
+   "insteadLabel": "What we do"
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "29+ DESTINATIONS. ONE PROCESS.",
+   "body": "Schengen, UK, USA, Canada, Japan, Australia, Morocco and more — tourist and business, handled end to end from Dubai.",
+   "note": "One note so there are no surprises: we cover the US visa fee. Schengen VFS charges are separate and paid by you."
+  },
+  {
+   "type": "photoband",
+   "photo": "santorini",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "ANSWER FOUR QUESTIONS. GET YOUR ROUTE.",
+   "sub": "Free, on visadoctor.ae."
+  },
+  {
+   "type": "photocta",
+   "photo": "board",
+   "tag": "FREE TOOL",
+   "headline": "USE IT FREE ON VISADOCTOR.AE",
+   "sub": "No signup. No charge.",
+   "checks": [
+    "Built for UAE residents",
+    "Free to use, always",
+    "Or message us and we'll run it with you"
+   ]
+  }
+ ]
+}

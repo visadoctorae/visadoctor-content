@@ -1,0 +1,86 @@
+{
+ "caption": "UK student visa applications rarely fail on academics. They fail on money and paperwork.\n\nInsufficient funds. The wrong holding period. Bank documents that are not acceptable. Sponsorship evidence missing. Details that do not match the CAS.\n\nHaving the money is not enough. You have to prove it in the specific form required.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#UKStudentVisa #UKVisa #VisaDoctorUAE #DubaiExpats #UAEResidents #StudyAbroad",
+ "alt": "Common reasons UK student visa applications fail for UAE residents",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20UK%20student%20visa%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "campus",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "UK",
+     "style": "out"
+    },
+    {
+     "t": "UK",
+     "style": "fill"
+    }
+   ],
+   "headline": "STUDENT VISAS RARELY FAIL ON ACADEMICS.",
+   "sub": "They fail on money and paperwork.",
+   "note": "The offer is the easy part. Evidencing it correctly is where applications come apart."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "style": "cross",
+   "headline": "WHY APPLICATIONS FACE PROBLEMS",
+   "items": [
+    "Insufficient funds for the required period",
+    "Funds not held for the correct length of time",
+    "Bank documents that do not meet the format required",
+    "Missing sponsorship evidence where funds are not your own",
+    "Details that do not match the CAS",
+    "Missing certificates where the course or country requires them"
+   ]
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "HAVING THE MONEY IS NOT ENOUGH.",
+   "body": "You have to prove it in the exact form required — right account, right period, right documentation.",
+   "note": "This is where otherwise strong applications quietly fail."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "headline": "WHAT MAY BE REQUIRED",
+   "items": [
+    "Valid passport",
+    "CAS from your university",
+    "Financial evidence in the required format",
+    "Proof of English where applicable",
+    "Previous education documents listed on your CAS",
+    "Parental consent and birth certificate for under-18s"
+   ],
+   "footnote": "Requirements vary by course, country of residence and profile."
+  },
+  {
+   "type": "photoband",
+   "photo": "london",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "DON'T RISK ONE OF THE BIGGEST STEPS YOU'LL TAKE.",
+   "sub": "Digital visas. Human care."
+  },
+  {
+   "type": "photocta",
+   "photo": "tarmac",
+   "tag": "FREE CONSULTATION",
+   "headline": "SEND ONE MESSAGE. WE DO THE REST.",
+   "sub": "Your visa. Our paperwork.",
+   "checks": [
+    "Application form and cover letter",
+    "Health insurance",
+    "Flight and hotel reservations",
+    "Day-by-day itinerary"
+   ]
+  }
+ ]
+}

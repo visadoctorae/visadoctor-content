@@ -1,0 +1,74 @@
+{
+ "caption": "First visa application from Dubai? Start with these four things.\n\nMost first-time refusals are not about weak profiles. They are about missing structure — documents that do not agree, dates that drift, and no explanation tying it together.\n\nCheck your residence validity, decide the consulate, build the file as one story, and give yourself time. That is most of the job.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#FirstTimeTraveller #VisaTips #SchengenVisa #VisaDoctorUAE #DubaiExpats #UAEResidents",
+ "alt": "First time visa application guidance for UAE residents",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20first%20application%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "passportHeld",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "FIRST TIME",
+     "style": "out"
+    }
+   ],
+   "headline": "FIRST APPLICATION? START HERE.",
+   "sub": "Structure beats strength.",
+   "note": "Most first-time refusals are not weak profiles. They are files with no structure holding them together."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "STRUCTURE BEATS STRENGTH.",
+   "body": "A modest profile in a file that agrees with itself reads better than an impressive one that contradicts itself.",
+   "note": "First applications are judged on coherence more than anything else."
+  },
+  {
+   "type": "numbered",
+   "tone": "light",
+   "kicker": "Which",
+   "headline": "FOUR THINGS COME FIRST",
+   "items": [
+    "Check your UAE residence visa validity",
+    "Decide the correct consulate for your trip",
+    "Build every document as one consistent story",
+    "Give yourself time before your travel dates"
+   ]
+  },
+  {
+   "type": "photoband",
+   "photo": "venice",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "A FILE THAT AGREES WITH ITSELF IS MOST OF THE JOB.",
+   "sub": "The rest is detail."
+  },
+  {
+   "type": "mythreality",
+   "tone": "light",
+   "headline": "HOW FIRST APPLICATIONS GO WRONG",
+   "never": "Try to look impressive — inflate the trip, move money in, borrow a stronger-sounding plan. Officers read thousands of files and inconsistency is exactly what they are trained to catch.",
+   "instead": "Present an accurate, modest, internally consistent case. Coherence beats impressiveness on a first application, every time.",
+   "neverLabel": "What you should never do",
+   "insteadLabel": "What we do"
+  },
+  {
+   "type": "photocta",
+   "photo": "packing",
+   "tag": "FREE CONSULTATION",
+   "headline": "WE'LL WALK YOU THROUGH IT.",
+   "checks": [
+    "Free profile review",
+    "Consulate recommendation",
+    "Full file build if you want it"
+   ],
+   "sub": "No charge for the first conversation."
+  }
+ ]
+}

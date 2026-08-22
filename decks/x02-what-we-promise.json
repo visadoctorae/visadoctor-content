@@ -1,0 +1,71 @@
+{
+ "caption": "Nobody can guarantee a visa approval. Here is what we do guarantee.\n\nThe decision belongs to the consulate. No agent changes that, and anyone promising otherwise is lying to you.\n\nWhat we control is everything before the decision: a complete file, documents that agree, the right consulate, and every predictable objection answered in advance. And if we miss the appointment window we agreed in writing, you get a full refund.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#VisaDoctorUAE #VisaConsultantDubai #DubaiExpats #UAEResidents #HonestAdvice #VisaHelp",
+ "alt": "What Visa Doctor can and cannot promise UAE residents",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20guarantee%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "handshake",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "TRUST",
+     "style": "out"
+    }
+   ],
+   "headline": "NOBODY CAN GUARANTEE AN APPROVAL.",
+   "sub": "Anyone who says otherwise is lying.",
+   "note": "The decision belongs to the consulate. No agency, no fee and no promise changes that."
+  },
+  {
+   "type": "mythreality",
+   "tone": "light",
+   "headline": "THE PROMISE TO WALK AWAY FROM",
+   "never": "\"Guaranteed approval\" or \"100% success, pay now.\" Nobody can commit to a decision they do not make. A promise like that tells you exactly how the rest of the relationship will go.",
+   "instead": "A written scope of what we will do, a clear timeframe for the appointment, and a refund if we miss it. Promises about our work, not theirs.",
+   "neverLabel": "What to walk away from",
+   "insteadLabel": "What we offer"
+  },
+  {
+   "type": "numbered",
+   "tone": "light",
+   "kicker": "What",
+   "headline": "WE ACTUALLY CONTROL",
+   "items": [
+    "Whether your file is complete",
+    "Whether your documents agree with each other",
+    "Which consulate receives the application",
+    "Whether predictable objections are answered in advance"
+   ]
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "APPOINTMENT IN THE AGREED TIME, OR FULL REFUND.",
+   "body": "That is a promise about work we control — not about a decision we do not.",
+   "note": "Narrow on purpose. A guarantee you can actually hold us to."
+  },
+  {
+   "type": "sourcecard",
+   "tone": "dark",
+   "tag": "WHO WE ARE",
+   "headline": "A LICENSED DUBAI DOCUMENTATION AGENCY",
+   "body": "We are not an embassy, a consulate, VFS Global or BLS International. We prepare and organise documentation. Approval, processing time, entries and validity are decided solely by the relevant consulate.",
+   "source": "Office 311, Stadium Point, Dubai Sports City",
+   "takeaway": "You may also apply directly through the official centre."
+  },
+  {
+   "type": "photocta",
+   "photo": "tarmac",
+   "tag": "FREE CONSULTATION",
+   "headline": "SEND ONE MESSAGE. WE DO THE REST.",
+   "sub": "Your visa. Our paperwork.",
+   "checks": [
+    "Application form and cover letter",
+    "Health insurance",
+    "Flight and hotel reservations",
+    "Day-by-day itinerary"
+   ]
+  }
+ ]
+}

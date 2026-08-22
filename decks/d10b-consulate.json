@@ -1,0 +1,80 @@
+{
+ "caption": "Two identical profiles. Different consulates. Different outcomes.\n\nThe rule: apply to the country where you will spend the most nights, or your first entry point if the split is even.\n\nBut consulates in the UAE do not behave identically — appointment availability, processing speed, and how they read a Dubai-resident profile all differ. Choosing correctly is not a shortcut. It is applying properly.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#SchengenVisa #SchengenVisaDubai #VisaDoctorUAE #DubaiExpats #UAEResidents #EuropeTravel",
+ "alt": "Which Schengen consulate to apply to from Dubai and why it matters",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20consulate%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "prague",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "THE BIG DECISION",
+     "style": "out"
+    },
+    {
+     "t": "SCHENGEN",
+     "style": "fill"
+    }
+   ],
+   "headline": "THE WRONG CONSULATE COSTS YOU.",
+   "sub": "Same file. Different outcome.",
+   "note": "Appointment availability, processing speed and profile reading all differ between UAE consulates."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "SAME FILE. DIFFERENT OUTCOME.",
+   "body": "The rule is your main destination — where you will spend the most nights. Get that wrong and a strong application can still fail.",
+   "note": "This is the decision everything else depends on."
+  },
+  {
+   "type": "numbered",
+   "tone": "light",
+   "kicker": "How",
+   "headline": "THE RULE ACTUALLY WORKS",
+   "items": [
+    "Apply where you will spend the most nights",
+    "If nights are even, apply to your first entry point",
+    "The rule is about your real trip, not convenience",
+    "Getting it wrong can invalidate an otherwise strong file"
+   ]
+  },
+  {
+   "type": "photoband",
+   "photo": "paris",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "THIS IS THE DECISION THE REST DEPENDS ON.",
+   "sub": "Everything else is downstream of it."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "headline": "WHAT DECIDES THE RIGHT POST",
+   "items": [
+    "Where you will spend the most nights",
+    "Your first point of entry if nights are even",
+    "Your nationality and previous visa history",
+    "Current processing realities at each post"
+   ]
+  },
+  {
+   "type": "photocta",
+   "photo": "board",
+   "tag": "FREE CONSULTATION",
+   "headline": "WE MATCH YOU TO THE RIGHT CONSULATE.",
+   "checks": [
+    "Trip analysed against the rule",
+    "Availability checked across consulates",
+    "File built for that specific post"
+   ],
+   "sub": "Then build the file for it."
+  }
+ ]
+}

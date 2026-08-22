@@ -1,0 +1,77 @@
+{
+ "caption": "The visa document most people skip: the cover letter.\n\nIt is not on the checklist, so people leave it out — and hand the officer a pile of documents with no story connecting them.\n\nThe cover letter answers what the form cannot: who you are, why this trip, why these dates, who is paying, and what you are returning to in the UAE. It turns a stack of paper into a case.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#CoverLetter #VisaTips #SchengenVisa #VisaDoctorUAE #DubaiExpats #UAEResidents",
+ "alt": "Visa cover letter importance for UAE residents applying for tourist visas",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20cover%20letter%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "writing",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "OVERLOOKED",
+     "style": "out"
+    }
+   ],
+   "headline": "THE DOCUMENT MOST PEOPLE SKIP.",
+   "sub": "It is not on the checklist. That is why it works.",
+   "note": "Without it, the officer gets documents with no story. With it, they get a case."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "IT IS NOT ON THE CHECKLIST.",
+   "body": "That is exactly why it works. The form states facts. The letter makes sense of them.",
+   "note": "Without it, the officer receives documents with no story. With it, they receive a case."
+  },
+  {
+   "type": "numbered",
+   "tone": "light",
+   "kicker": "What",
+   "headline": "A GOOD COVER LETTER ANSWERS",
+   "items": [
+    "Who you are and what you do in the UAE",
+    "Why this trip, and why these specific dates",
+    "Who is funding it and how",
+    "What you are returning to here"
+   ]
+  },
+  {
+   "type": "photoband",
+   "photo": "prague",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "THE FORM STATES FACTS. THE LETTER MAKES SENSE OF THEM.",
+   "sub": "One page. Disproportionate effect."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "headline": "WHAT A GOOD ONE ANSWERS",
+   "items": [
+    "Who you are and what you do in the UAE",
+    "Why this trip, and why now",
+    "How it is funded, and by whom",
+    "What you are returning to",
+    "Anything in the file that needs explaining"
+   ]
+  },
+  {
+   "type": "photocta",
+   "photo": "packing",
+   "tag": "FREE CONSULTATION",
+   "headline": "WE WRITE IT AROUND YOUR CASE.",
+   "checks": [
+    "Cover letter tailored to your profile",
+    "Application form completed",
+    "Itinerary that matches the letter"
+   ],
+   "sub": "Your visa. Our paperwork."
+  }
+ ]
+}

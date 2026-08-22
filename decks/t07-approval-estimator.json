@@ -1,0 +1,75 @@
+{
+ "caption": "Before you pay a non-refundable fee, it is worth knowing whether your profile is ready.\n\nNobody can predict a consulate decision — and anyone claiming to is selling something. But the factors that weigh on it are well understood: residence stability, employment, financial history, travel record, and how well the file holds together.\n\nOur free estimator walks you through them honestly, including when the answer is wait.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#VisaDoctorUAE #VisaTips #SchengenVisa #DubaiExpats #UAEResidents #FreeTool #VisaHelp",
+ "alt": "Free visa approval chance estimator for UAE residents",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20approval%20estimator%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "terminal",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "FREE TOOL",
+     "style": "out"
+    }
+   ],
+   "headline": "IS YOUR PROFILE ACTUALLY READY?",
+   "sub": "Worth knowing before the fee is spent.",
+   "note": "The fee is non-refundable. So is the appointment slot. Both are worth protecting."
+  },
+  {
+   "type": "reveal",
+   "tone": "dark",
+   "answer": "NOBODY CAN PREDICT A DECISION.",
+   "body": "The consulate decides, and anyone promising an outcome is selling you something they do not have.",
+   "note": "But the factors that weigh on it are well understood — and most of them are fixable."
+  },
+  {
+   "type": "numbered",
+   "tone": "light",
+   "kicker": "What",
+   "headline": "ACTUALLY CARRIES WEIGHT",
+   "items": [
+    "Residence stability — and how long it runs past your trip",
+    "Employment, and whether it is properly evidenced",
+    "Financial history rather than a single balance",
+    "Travel record, including any previous refusals",
+    "Whether the documents agree with each other"
+   ]
+  },
+  {
+   "type": "photoband",
+   "photo": "swiss",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "SOMETIMES THE HONEST ANSWER IS WAIT.",
+   "sub": "We will say so."
+  },
+  {
+   "type": "sourcecard",
+   "tone": "dark",
+   "tag": "OUR RECORD",
+   "headline": "94.7% APPROVAL RATE ACROSS APPLICATIONS WE PREPARE",
+   "body": "That figure comes from auditing files before submission and declining to submit ones that are not ready. It is not a promise about your case — the consulate decides that.",
+   "source": "visadoctor.ae",
+   "takeaway": "We control the file. Not the decision."
+  },
+  {
+   "type": "photocta",
+   "photo": "terminal",
+   "tag": "FREE TOOL",
+   "headline": "USE IT FREE ON VISADOCTOR.AE",
+   "sub": "No signup. No charge.",
+   "checks": [
+    "Built for UAE residents",
+    "Free to use, always",
+    "Or message us and we'll run it with you"
+   ]
+  }
+ ]
+}

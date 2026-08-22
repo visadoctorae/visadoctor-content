@@ -1,0 +1,81 @@
+{
+ "caption": "UK visit visa from Dubai: there is no sticker in your passport anymore.\n\nUK visas are digital now. Your permission lives in an online account linked to your passport — there is nothing physical to show at the gate.\n\nTwo consequences. Keep the passport link updated if your details change, and make sure you can actually access the account when you travel. Always confirm current requirements on gov.uk.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#UKVisa #eVisa #UKVisaDubai #VisaDoctorUAE #DubaiExpats #UAEResidents #UKTravel",
+ "alt": "UK eVisa digital visa change for UAE residents travelling to Britain",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20UK%20visa%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "london",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "UK",
+     "style": "out"
+    },
+    {
+     "t": "UK",
+     "style": "fill"
+    }
+   ],
+   "headline": "NO MORE STICKER IN YOUR PASSPORT.",
+   "sub": "Digital visas. Human care.",
+   "note": "UK permission now lives in an online account linked to your passport. Nothing physical to show at the gate."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "IT LIVES IN AN ONLINE ACCOUNT.",
+   "body": "Linked to your passport. The airline checks the record at the gate, not a page in your passport.",
+   "note": "Faster passport return. And a new way to be caught out."
+  },
+  {
+   "type": "numbered",
+   "tone": "light",
+   "kicker": "What",
+   "headline": "THIS CHANGES FOR YOU",
+   "items": [
+    "Your permission is linked to a specific passport",
+    "Change your passport and the link must be updated",
+    "You need account access while travelling",
+    "Passport return is faster than it used to be"
+   ]
+  },
+  {
+   "type": "photoband",
+   "photo": "planeWindow",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "FASTER PROCESS. NEW WAY TO GET CAUGHT OUT.",
+   "sub": "Check your account before you fly."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "headline": "WHAT TO CONFIRM BEFORE YOU FLY",
+   "items": [
+    "Your permission is tied to one specific passport",
+    "Change passports and the link must be updated",
+    "You need account access while travelling",
+    "Screenshots are not a substitute for access"
+   ],
+   "footnote": "Always confirm current guidance on gov.uk before you travel."
+  },
+  {
+   "type": "photocta",
+   "photo": "terminal",
+   "tag": "FREE CONSULTATION",
+   "headline": "WE HANDLE THE UKVI ACCOUNT SETUP.",
+   "checks": [
+    "Application prepared in full",
+    "UKVI account and eVisa setup",
+    "Documents audited before submission"
+   ],
+   "sub": "End to end, including the digital side."
+  }
+ ]
+}

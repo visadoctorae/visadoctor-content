@@ -1,0 +1,81 @@
+{
+ "caption": "Schengen 90/180 rule: it is a rolling window, not a calendar year.\n\nIn any 180 days counting backwards from your entry date, your total days inside Schengen must stay under 90. It never resets on 1 January — it moves with you, daily.\n\nThe EU Entry/Exit System now records every crossing digitally. Miscounting is no longer a harmless error; it is a logged overstay that follows your future applications.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#SchengenVisa #Schengen90180 #EES #VisaDoctorUAE #DubaiExpats #EuropeTravel #TravelRules",
+ "alt": "Schengen 90 180 day rule explained for UAE residents with rolling window",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%2090/180%20rule%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "calendar",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "KNOW THE RULE",
+     "style": "out"
+    },
+    {
+     "t": "SCHENGEN",
+     "style": "fill"
+    }
+   ],
+   "headline": "90 DAYS — BUT WHICH 90?",
+   "sub": "It is a rolling window. It moves with you.",
+   "note": "It never resets on 1 January. Counting it wrong is now a recorded overstay."
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "IT NEVER RESETS IN JANUARY.",
+   "body": "The window rolls. On any given day, look back 180 days and count how many you spent inside. That total is what matters.",
+   "note": "This is where accidental overstays come from — people counting calendar years."
+  },
+  {
+   "type": "numbered",
+   "tone": "dark",
+   "kicker": "How",
+   "headline": "TO COUNT IT YOURSELF",
+   "items": [
+    "Take your planned entry date",
+    "Count back 180 days from it",
+    "Add every day spent inside Schengen in that window",
+    "Under 90 and you are clear"
+   ]
+  },
+  {
+   "type": "photoband",
+   "photo": "venice",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "THE ENTRY/EXIT SYSTEM LOGS EVERY CROSSING.",
+   "sub": "Guesswork is no longer an option."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "headline": "WHERE PEOPLE GET IT WRONG",
+   "items": [
+    "Counting from the start of the year",
+    "Forgetting a short trip six months ago",
+    "Counting only full days, not entry and exit days",
+    "Assuming a new visa resets the count"
+   ],
+   "style": "cross"
+  },
+  {
+   "type": "photocta",
+   "photo": "tarmac",
+   "tag": "FREE CONSULTATION",
+   "headline": "WE COUNT IT FOR YOU.",
+   "checks": [
+    "We audit your travel history",
+    "We calculate your available days",
+    "We plan the trip around the window"
+   ],
+   "sub": "Before it becomes a problem."
+  }
+ ]
+}

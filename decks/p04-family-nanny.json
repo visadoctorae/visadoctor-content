@@ -1,0 +1,79 @@
+{
+ "caption": "Travelling as a family with a nanny? The applications have to be built as one file.\n\nDomestic worker visas fail for a specific reason: the two applications tell different stories. Different dates, different accommodation, an employment relationship that is stated but never evidenced.\n\nOne family. One file. Aligned dates, documented sponsorship, matching itinerary.\n\n💬 Link in bio to message us — takes 10 seconds.\n📍 Dubai · Licensed · Refundable appointment guarantee\n\n#FamilyTravel #NannyVisa #SchengenVisa #VisaDoctorUAE #DubaiExpats #UAEResidents",
+ "alt": "Family and domestic worker visa applications from the UAE",
+ "wa": "https://wa.me/971585170900?text=Hi%21%20I%20saw%20your%20nanny%20visa%20post%2C%20I%20require%20visa%20assistance",
+ "slides": [
+  {
+   "type": "photocover",
+   "photo": "familyTerminal",
+   "scrim": "strong",
+   "pills": [
+    {
+     "t": "FAMILY",
+     "style": "out"
+    }
+   ],
+   "headline": "FLYING WITH YOUR NANNY? IT IS ONE FILE, NOT TWO.",
+   "sub": "One family. One story.",
+   "note": "These applications fail for a specific reason — the two files disagree with each other."
+  },
+  {
+   "type": "checklist",
+   "tone": "light",
+   "style": "cross",
+   "headline": "WHY THESE APPLICATIONS FAIL",
+   "items": [
+    "Dates that do not match across the two applications",
+    "No documented evidence of the employment relationship",
+    "Sponsorship stated but never evidenced",
+    "Separate itineraries that contradict each other",
+    "Accommodation that does not account for everyone"
+   ]
+  },
+  {
+   "type": "reveal",
+   "tone": "light",
+   "answer": "TWO APPLICATIONS. ONE STORY.",
+   "body": "When both files agree on dates, accommodation, funding and purpose, the officer stops looking for the gap.",
+   "note": "When they disagree, the gap is the only thing the officer sees."
+  },
+  {
+   "type": "numbered",
+   "tone": "light",
+   "kicker": "What",
+   "headline": "A FAMILY FILE NEEDS",
+   "items": [
+    "Sponsorship documented, not just asserted",
+    "The employment contract and its evidence",
+    "A single itinerary covering everyone",
+    "Accommodation accounting for every traveller and every night"
+   ]
+  },
+  {
+   "type": "photoband",
+   "photo": "tarmac",
+   "scrim": "soft",
+   "pills": [
+    {
+     "t": "THE POINT",
+     "style": "out"
+    }
+   ],
+   "headline": "WE BUILD THE HOUSEHOLD FILE TOGETHER.",
+   "sub": "One family. One file."
+  },
+  {
+   "type": "photocta",
+   "photo": "tarmac",
+   "tag": "FREE CONSULTATION",
+   "headline": "SEND ONE MESSAGE. WE DO THE REST.",
+   "sub": "Your visa. Our paperwork.",
+   "checks": [
+    "Application form and cover letter",
+    "Health insurance",
+    "Flight and hotel reservations",
+    "Day-by-day itinerary"
+   ]
+  }
+ ]
+}
