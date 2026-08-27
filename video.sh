@@ -43,15 +43,16 @@ if [ "$MODE" = "scout" ]; then
     echo "  scouting $id"
     if ! fetch "$id" "$tmp"; then rm -f "$tmp"; continue; fi
 
-    read -r w h dur < <(ffprobe -v error -select_streams v:0 \
+    # Metadata is nice to have, never fatal.
+    meta="$(ffprobe -v error </dev/null -select_streams v:0 \
       -show_entries stream=width,height -show_entries format=duration \
-      -of csv=p=0:s=x "$tmp" | tr 'x' ' ' | tr '\n' ' ')
+      -of csv=p=0 "$tmp" 2>/dev/null | tr '\n' ' ' || true)"
 
-    ffmpeg -y -loglevel error -i "$tmp" \
+    ffmpeg -nostdin -y -loglevel error -i "$tmp" \
       -vf "fps=1/2,scale=270:480:force_original_aspect_ratio=increase,crop=270:480,tile=5x1" \
       -frames:v 1 "$outdir/${id}.jpg" 2>/dev/null || echo "    sheet failed $id"
 
-    printf '%s\t%sx%s\t%ss\n' "$id" "$w" "$h" "${dur%%.*}" >> "$outdir/_index.tsv"
+    printf '%s\t%s\n' "$id" "$meta" >> "$outdir/_index.tsv" || true
     rm -f "$tmp"
   done < "$list"
 
@@ -90,7 +91,7 @@ if [ "$MODE" = "build" ]; then
       if fetch "$id" "$tmp"; then
         # Cover-crop the footage to 1080x1920, hold 5s, lay the type over it.
         # The overlay already carries the scrim, so text stays legible on any clip.
-        ffmpeg -y -loglevel error -i "$tmp" -loop 1 -i "$ov" -filter_complex \
+        ffmpeg -nostdin -y -loglevel error -i "$tmp" -loop 1 -i "$ov" -filter_complex \
           "[0:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,fps=30,trim=0:5,setpts=PTS-STARTPTS[b];\
            [b][1:v]overlay=0:0:format=auto,format=yuv420p[v]" \
           -map "[v]" -an -t 5 -r 30 -c:v libx264 -preset veryfast -crf 20 \
@@ -105,7 +106,7 @@ if [ "$MODE" = "build" ]; then
 
     # No clip, or fetch failed: hold the flattened frame.
     echo "  frame $n — still"
-    ffmpeg -y -loglevel error -loop 1 -i "$f" -vf "format=yuv420p" -t 5 -r 30 \
+    ffmpeg -nostdin -y -loglevel error -loop 1 -i "$f" -vf "format=yuv420p" -t 5 -r 30 \
       -c:v libx264 -preset veryfast -crf 20 -movflags +faststart "$out"
   done
 
