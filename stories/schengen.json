@@ -1,0 +1,45 @@
+{
+ "country": "Schengen",
+ "frames": [
+  {"type":"cover","code":"SCH","label":"Schengen"},
+
+  {"type":"photo","clip":"18902529",
+   "photo":"https://images.pexels.com/photos/29168882/pexels-photo-29168882.jpeg?auto=compress&cs=tinysrgb&w=1200&h=2100&fit=crop",
+   "kicker":"One visa, 29 countries",
+   "headline":"29 COUNTRIES. ONE VISA.",
+   "sub":"Apply once. Travel the whole zone.",
+   "body":"A Schengen visa lets you move freely across 29 European countries. The hard part is not the travel. It is the file."},
+
+  {"type":"list","kicker":"What","headline":"YOUR SCHENGEN FILE NEEDS",
+   "items":[
+     "Application form completed correctly",
+     "Schengen-compliant medical insurance",
+     "Flight reservations matching your dates",
+     "Hotel booked for every night of the stay",
+     "Day-by-day itinerary, city by city",
+     "Financial evidence with visible history"],
+   "footnote":"Requirements vary by nationality and profile. We build the list around yours."},
+
+  {"type":"photo","clip":"18493879",
+   "photo":"https://images.pexels.com/photos/20068237/pexels-photo-20068237.jpeg?auto=compress&cs=tinysrgb&w=1200&h=2100&fit=crop",
+   "kicker":"The detail people get wrong",
+   "headline":"APPLY WHERE YOU SLEEP MOST.",
+   "sub":"Not where the slot is fastest.",
+   "body":"Your application belongs to the country where you spend the most nights. Multi-country trips are where this goes wrong."},
+
+  {"type":"list","kicker":"How long","headline":"IT ACTUALLY TAKES",
+   "items":[
+     "Appointment secured in 7 working days",
+     "File prepared and cross-checked before submission",
+     "You attend the appointment — we tell you exactly what to bring",
+     "Decision sits with the consulate, always"],
+   "footnote":"Appointment in the agreed time, or a full refund. That is a promise about our work, not theirs."},
+
+  {"type":"photo","clip":"20736942",
+   "photo":"https://images.pexels.com/photos/19976960/pexels-photo-19976960.jpeg?auto=compress&cs=tinysrgb&w=1200&h=2100&fit=crop",
+   "kicker":"Ready when you are",
+   "headline":"TELL US YOUR DATES.",
+   "sub":"We'll build the rest.",
+   "body":"Free consultation, no obligation. If your file is not ready we will say so before you pay anything."}
+ ]
+}
