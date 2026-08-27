@@ -1,0 +1,42 @@
+{
+ "country": "Italy",
+ "frames": [
+  {"type":"cover","code":"IT","label":"Italy"},
+
+  {"type":"photo","photo":"https://images.pexels.com/photos/27541217/pexels-photo-27541217.jpeg?auto=compress&cs=tinysrgb&w=1200&h=2100&fit=crop",
+   "kicker":"Italy, from Dubai",
+   "headline":"THE SCHENGEN FILE ITALY ACTUALLY WANTS.",
+   "sub":"Rome, Florence, Venice — one visa.",
+   "body":"Italy is one of the most applied-for Schengen destinations from the UAE. It is also one where a vague itinerary gets noticed."},
+
+  {"type":"list","kicker":"What","headline":"YOUR ITALY FILE NEEDS",
+   "items":[
+     "Application form completed correctly",
+     "Schengen-compliant medical insurance",
+     "Flight reservations matching your dates",
+     "Hotel booked for every night of the stay",
+     "Day-by-day itinerary, city by city",
+     "Financial evidence with visible history"],
+   "footnote":"Requirements vary by nationality and profile. We build the list around yours."},
+
+  {"type":"photo","photo":"https://images.pexels.com/photos/20068237/pexels-photo-20068237.jpeg?auto=compress&cs=tinysrgb&w=1200&h=2100&fit=crop",
+   "kicker":"The detail people miss",
+   "headline":"APPLY WHERE YOU SLEEP MOST.",
+   "sub":"Not where the slot is fastest.",
+   "body":"If Italy is your main destination — the most nights — Italy is where the application belongs. Multi-country trips are where this goes wrong."},
+
+  {"type":"list","kicker":"How long","headline":"IT ACTUALLY TAKES",
+   "items":[
+     "Appointment secured in 7 working days",
+     "File prepared and cross-checked before submission",
+     "You attend the appointment — we tell you exactly what to bring",
+     "The decision sits with the consulate, always"],
+   "footnote":"Appointment in the agreed time, or a full refund. That is a promise about our work, not theirs."},
+
+  {"type":"photo","photo":"https://images.pexels.com/photos/19976960/pexels-photo-19976960.jpeg?auto=compress&cs=tinysrgb&w=1200&h=2100&fit=crop",
+   "kicker":"Ready when you are",
+   "headline":"TELL US YOUR DATES.",
+   "sub":"We'll build the rest.",
+   "body":"Free consultation, no obligation. If your file is not ready we will say so before you pay anything."}
+ ]
+}
