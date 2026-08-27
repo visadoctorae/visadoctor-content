@@ -34,13 +34,13 @@ async function photo(url){
 
 const Mark = () => e('div',{style:{display:'flex',justifyContent:'space-between',alignItems:'center',width:'100%'}},
   e('div',{style:{display:'flex',fontSize:24,fontWeight:700,letterSpacing:7,color:B.white,fontFamily:'Inter'}},'VISA DOCTOR'),
-  e('div',{style:{display:'flex',fontSize:20,letterSpacing:4,color:'rgba(255,255,255,.55)',fontFamily:'Inter'}},'DUBAI • UAE'));
+  e('div',{style:{display:'flex',fontSize:20,letterSpacing:4,color:'rgba(255,255,255,.55)',fontFamily:'Inter'}},'DUBAI â¢ UAE'));
 
 const Foot = () => e('div',{style:{display:'flex',position:'absolute',left:0,right:0,bottom:0,height:150,
   backgroundColor:B.bar,alignItems:'center',justifyContent:'space-between',padding:'0 72px'}},
   e('div',{style:{display:'flex',flexDirection:'column'}},
-    e('div',{style:{display:'flex',fontSize:30,fontWeight:700,color:B.navy,fontFamily:'Inter'}},'Message us — link in bio'),
-    e('div',{style:{display:'flex',fontSize:21,color:'rgba(21,37,65,.65)',fontFamily:'Inter',marginTop:4}},'+971 58 517 0900 · Free consultation')),
+    e('div',{style:{display:'flex',fontSize:30,fontWeight:700,color:B.navy,fontFamily:'Inter'}},'Message us â link in bio'),
+    e('div',{style:{display:'flex',fontSize:21,color:'rgba(21,37,65,.65)',fontFamily:'Inter',marginTop:4}},'+971 58 517 0900 Â· Free consultation')),
   e('div',{style:{display:'flex',fontSize:26,fontWeight:600,color:B.navy,fontFamily:'Inter'}},'@visadoctoruae'));
 
 const SCRIM = ['linear-gradient(to bottom, rgba(13,20,36,.66) 0%, rgba(13,20,36,0) 22%)',
@@ -75,7 +75,7 @@ L.list = s => e('div',{style:{display:'flex',flexDirection:'column',width:W,heig
   e('div',{style:{display:'flex',flexDirection:'column',flex:1,padding:'86px 72px 190px 72px',position:'relative'}},
     e('div',{style:{display:'flex',justifyContent:'space-between',alignItems:'center',width:'100%'}},
       e('div',{style:{display:'flex',fontSize:24,fontWeight:700,letterSpacing:7,color:B.navy,fontFamily:'Inter'}},'VISA DOCTOR'),
-      e('div',{style:{display:'flex',fontSize:20,letterSpacing:4,color:'rgba(21,37,65,.5)',fontFamily:'Inter'}},'DUBAI • UAE')),
+      e('div',{style:{display:'flex',fontSize:20,letterSpacing:4,color:'rgba(21,37,65,.5)',fontFamily:'Inter'}},'DUBAI â¢ UAE')),
     e('div',{style:{display:'flex',flexDirection:'column',marginTop:'auto',marginBottom:'auto'}},
       s.kicker ? e('div',{style:{display:'flex',fontSize:44,color:B.subGold,fontFamily:'Playfair',fontStyle:'italic'}},s.kicker) : null,
       e('div',{style:{display:'flex',fontSize:s.size||70,fontWeight:800,color:B.navy,fontFamily:'Inter',letterSpacing:-1.5,lineHeight:1.08,marginTop:10,maxWidth:900}},s.headline),
@@ -106,10 +106,12 @@ for(let i=0;i<deck.frames.length;i++){
   const f = deck.frames[i];
   if(!L[f.type]) throw new Error('Unknown frame type ' + f.type);
   const n = String(i+1).padStart(2,'0');
-  fs.writeFileSync(path.join(out,'s_'+n+'.png'), await png(L[f.type](f)));
+  if(f.type !== 'photo' || f._img) fs.writeFileSync(path.join(out,'s_'+n+'.png'), await png(L[f.type](f)));
+  else fs.writeFileSync(path.join(out,'s_'+n+'.png'), await png(L.photoOv(f)));
   if(f.type === 'photo'){
-    fs.writeFileSync(path.join(out,'bg_'+n+'.png'), await png(L.photoBg(f)));
     fs.writeFileSync(path.join(out,'ov_'+n+'.png'), await png(L.photoOv(f)));
+    if(f.video) fs.writeFileSync(path.join(out,'src_'+n+'.txt'), f.video);
+    else if(f._img) fs.writeFileSync(path.join(out,'bg_'+n+'.png'), await png(L.photoBg(f)));
   }
 }
 console.log('Rendered ' + deck.frames.length + ' story frames -> ' + out);
