@@ -1,0 +1,69 @@
+name: Story videos
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'scout (contact-sheet candidates) or build (composite final clips)'
+        type: choice
+        options: [scout, build]
+        default: scout
+      story:
+        description: 'story name — scout reads candidates/<name>.txt, build reads stories/<name>.json'
+        default: schengen-f2
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-commit
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install deps
+        run: npm install --no-audit --no-fund
+
+      - name: Run
+        run: bash video.sh "${{ inputs.mode }}" "${{ inputs.story }}"
+
+      - name: What got produced
+        if: always()
+        run: |
+          echo "--- scout ---";     ls -laR scout     2>/dev/null || echo "(none)"
+          echo "--- out_video ---"; ls -laR out_video 2>/dev/null || echo "(none)"
+
+      - name: Upload results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: story-${{ inputs.mode }}-${{ inputs.story }}
+          path: |
+            scout
+            out_video
+          if-no-files-found: ignore
+          retention-days: 14
+
+      - name: Commit results
+        run: |
+          git config user.name  github-actions
+          git config user.email github-actions@users.noreply.github.com
+          # Stage each path separately — a single `git add a b` aborts entirely
+          # if either path is missing, which silently stages nothing.
+          git add -A scout     2>/dev/null || true
+          git add -A out_video 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo 'nothing to commit'
+          else
+            git commit -m "video: ${{ inputs.mode }} ${{ inputs.story }}"
+            git pull --rebase --autostash origin main
+            git push origin HEAD:main
+          fi
