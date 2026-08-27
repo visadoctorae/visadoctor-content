@@ -3,7 +3,9 @@
  "frames": [
   {"type":"cover","code":"IT","label":"Italy"},
 
-  {"type":"photo","photo":"https://images.pexels.com/photos/27541217/pexels-photo-27541217.jpeg?auto=compress&cs=tinysrgb&w=1200&h=2100&fit=crop",
+  {"type":"photo",
+   "photo":"https://images.pexels.com/photos/27541217/pexels-photo-27541217.jpeg?auto=compress&cs=tinysrgb&w=1200&h=2100&fit=crop",
+   "video":"https://videos.pexels.com/video-files/5087349/5087349-hd_1080_1920_25fps.mp4",
    "kicker":"Italy, from Dubai",
    "headline":"THE SCHENGEN FILE ITALY ACTUALLY WANTS.",
    "sub":"Rome, Florence, Venice — one visa.",
@@ -19,7 +21,9 @@
      "Financial evidence with visible history"],
    "footnote":"Requirements vary by nationality and profile. We build the list around yours."},
 
-  {"type":"photo","photo":"https://images.pexels.com/photos/20068237/pexels-photo-20068237.jpeg?auto=compress&cs=tinysrgb&w=1200&h=2100&fit=crop",
+  {"type":"photo",
+   "photo":"https://images.pexels.com/photos/20068237/pexels-photo-20068237.jpeg?auto=compress&cs=tinysrgb&w=1200&h=2100&fit=crop",
+   "video":"https://videos.pexels.com/video-files/15887367/15887367-hd_1080_1920_30fps.mp4",
    "kicker":"The detail people miss",
    "headline":"APPLY WHERE YOU SLEEP MOST.",
    "sub":"Not where the slot is fastest.",
@@ -33,7 +37,9 @@
      "The decision sits with the consulate, always"],
    "footnote":"Appointment in the agreed time, or a full refund. That is a promise about our work, not theirs."},
 
-  {"type":"photo","photo":"https://images.pexels.com/photos/19976960/pexels-photo-19976960.jpeg?auto=compress&cs=tinysrgb&w=1200&h=2100&fit=crop",
+  {"type":"photo",
+   "photo":"https://images.pexels.com/photos/19976960/pexels-photo-19976960.jpeg?auto=compress&cs=tinysrgb&w=1200&h=2100&fit=crop",
+   "video":"https://videos.pexels.com/video-files/4605072/4605072-hd_1080_1920_30fps.mp4",
    "kicker":"Ready when you are",
    "headline":"TELL US YOUR DATES.",
    "sub":"We'll build the rest.",
