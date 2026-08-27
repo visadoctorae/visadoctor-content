@@ -1,4 +1,4 @@
-// Visa Doctor UAE — Story & Highlight-cover renderer (1080x1920)
+// Visa Doctor UAE - Story & Highlight-cover renderer (1080x1920)
 // Usage: node story.mjs stories/<name>.json out_stories/<name>
 import satori from 'satori';
 import { Resvg } from '@resvg/resvg-js';
@@ -48,8 +48,7 @@ const SCRIM = ['linear-gradient(to bottom, rgba(13,20,36,.66) 0%, rgba(13,20,36,
 
 const L = {};
 
-L.photo = s => e('div',{style:{display:'flex',flexDirection:'column',width:W,height:H,position:'relative',backgroundColor:B.navy}},
-  e('img',{src:s._img,width:W,height:H,style:{position:'absolute',left:0,top:0,width:W,height:H,objectFit:'cover'}}),
+const PhotoOverlayInner = s => [
   e('div',{style:{display:'flex',position:'absolute',left:0,top:0,width:W,height:H,backgroundImage:SCRIM[1]}}),
   e('div',{style:{display:'flex',position:'absolute',left:0,top:0,width:W,height:H,backgroundImage:SCRIM[0]}}),
   e('div',{style:{display:'flex',flexDirection:'column',flex:1,padding:'86px 72px 190px 72px',position:'relative'}},
@@ -59,7 +58,17 @@ L.photo = s => e('div',{style:{display:'flex',flexDirection:'column',width:W,hei
       e('div',{style:{display:'flex',fontSize:s.size||96,fontWeight:800,color:B.white,fontFamily:'Inter',letterSpacing:-2.5,lineHeight:1.04,maxWidth:900}},s.headline),
       s.sub ? e('div',{style:{display:'flex',fontSize:42,color:B.goldLt,fontFamily:'Playfair',fontStyle:'italic',marginTop:26,maxWidth:880}},s.sub) : null,
       s.body ? e('div',{style:{display:'flex',fontSize:29,color:'rgba(255,255,255,.84)',fontFamily:'Inter',lineHeight:1.5,marginTop:28,maxWidth:830}},s.body) : null)),
-  Foot());
+  Foot()];
+
+L.photo = s => e('div',{style:{display:'flex',flexDirection:'column',width:W,height:H,position:'relative',backgroundColor:B.navy}},
+  e('img',{src:s._img,width:W,height:H,style:{position:'absolute',left:0,top:0,width:W,height:H,objectFit:'cover'}}),
+  PhotoOverlayInner(s));
+
+L.photoBg = s => e('div',{style:{display:'flex',width:W,height:H,position:'relative',backgroundColor:B.navy}},
+  e('img',{src:s._img,width:W,height:H,style:{position:'absolute',left:0,top:0,width:W,height:H,objectFit:'cover'}}));
+
+L.photoOv = s => e('div',{style:{display:'flex',flexDirection:'column',width:W,height:H,position:'relative'}},
+  PhotoOverlayInner(s));
 
 L.list = s => e('div',{style:{display:'flex',flexDirection:'column',width:W,height:H,position:'relative',backgroundColor:B.cream}},
   e('div',{style:{display:'flex',position:'absolute',right:-200,top:300,width:700,height:700,borderRadius:999,backgroundColor:'#EFE7D3'}}),
@@ -89,10 +98,18 @@ const deck = JSON.parse(fs.readFileSync(deckPath,'utf8'));
 const out = outDir || path.join('out_stories', path.basename(deckPath,'.json'));
 fs.mkdirSync(out,{recursive:true});
 for(const f of deck.frames) if(f.photo) f._img = await photo(f.photo);
+const png = async (node) => {
+  const svg = await satori(node, { width:W, height:H, fonts });
+  return new Resvg(svg, { fitTo:{mode:'width',value:W}, background:'rgba(0,0,0,0)' }).render().asPng();
+};
 for(let i=0;i<deck.frames.length;i++){
   const f = deck.frames[i];
   if(!L[f.type]) throw new Error('Unknown frame type ' + f.type);
-  const svg = await satori(L[f.type](f), { width:W, height:H, fonts });
-  fs.writeFileSync(path.join(out,'s_'+String(i+1).padStart(2,'0')+'.png'), new Resvg(svg,{fitTo:{mode:'width',value:W}}).render().asPng());
+  const n = String(i+1).padStart(2,'0');
+  fs.writeFileSync(path.join(out,'s_'+n+'.png'), await png(L[f.type](f)));
+  if(f.type === 'photo'){
+    fs.writeFileSync(path.join(out,'bg_'+n+'.png'), await png(L.photoBg(f)));
+    fs.writeFileSync(path.join(out,'ov_'+n+'.png'), await png(L.photoOv(f)));
+  }
 }
 console.log('Rendered ' + deck.frames.length + ' story frames -> ' + out);
